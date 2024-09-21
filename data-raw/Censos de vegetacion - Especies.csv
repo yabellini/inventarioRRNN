@@ -1,0 +1,514 @@
+idEspecie,nombreCientificoEspecie,nombreActualEspecie,tipoBiologico,preferencia,estacionalidad,grupoFuncional,ciclo
+89,Acaena myriophylla,,,,,,Perenne
+90,Acantholippia seriphioides,,C,No preferida,Primavero-estival,Herbacea,Perenne
+91,Adesmia filipes,,,,,,Anual
+92,Adesmia incana,,,,,,Anual
+93,Adesmia lihuelensis,,,,,,Perenne
+94,Adesmia muricata,,P,Preferida,Primavero-estival,Herbacea,Perenne
+95,Adesmia trijuga,,,,,,Perenne
+96,Adiantum chilense,,,,,,Perenne
+97,Agropyron elongatum,,,,,,Perenne
+98,Alchemilla parodii,Aphanes parodii,P,No preferida,Primavero-estival,Herbacea,Anual
+99,Allenrolfea patagonica,,,,,,Perenne
+100,Allenrolfea vaginata,,,,,,Perenne
+101,Aloysia gratissima,,F,Preferida,Primavero-estival,Leñosa,Perenne
+102,Alternanthera philoxeroides,,,,,,Perenne
+103,Alternanthera pungens,,,,,,Anual
+104,Amaranthus crispus,,,,,,Anual
+105,Amaranthus deflexus,,,,,,Anual
+106,Amaranthus standleyanus,,,,,,Anual
+107,Ambrosia tenuifolia,,,,,,Perenne
+108,Ammi majus,,,,,,Anual
+109,Ammi visnaga,,,,,,Anual
+110,Amsinckia hispida,,,,,,Anual
+111,Anarthrophyllum ornithopodum,,,,,,Perenne
+112,Androsace salasii,,,,,,Anual
+113,Anemone decapetala,,,,,,Perenne
+114,Anthemis cotula,,,,,,Anual
+115,Apium leptophyllum,,,,,,Anual
+116,Apodanthera sagittifolia,,,,,,Perenne
+117,Araujia hortorum,,,,,,Perenne
+118,Argemone subfusiformis,,,,,,Anual
+119,Aristida adscencionis,,H,Preferida,Primavero-estival,Herbacea,Anual
+120,Aristida mendocina,,H,Preferida,Primavero-estival,Herbacea,Perenne
+121,Aristida minutiflora,,,,,,Anual
+122,Aristida niederleinii,,,,,,Perenne
+123,Aristida pallens,,,,,,Perenne
+124,Aristida spegazzini,,,,,,Perenne
+125,Aristida subulata,,H,No preferida,Primavero-estival,Herbacea,Perenne
+126,Aristida trachyantha,,,,,,Perenne
+127,Arjona tuberosa,,G,No preferida,Primavero-estival,Herbacea,Perenne
+128,Arundo donax,,,,,,Perenne
+129,Asclepias mellodora,,,,,,Perenne
+130,Aster haplopappus,Noticastrum sericeum,H,No preferida,Primavero-estival,Herbacea,Anual
+131,Aster squamatus,,,,,,Perenne
+132,Astragalus bergii,,H,No preferida,Primavero-estival,Herbacea,Anual
+133,Atamisquea emarginata,,,,,,Perenne
+134,Atriplex hastata,,,,,,Anual
+135,Atriplex lampa,,F,Intermedia,Primavero-estival,,Perenne
+136,Atriplex montevidensis,,,,,,Perenne
+137,Atriplex semibaccata,,,,,,Anual
+138,Atriplex undulata,,F,Intermedia,Primavero-estival,,Perenne
+139,Avena barbata,,,,,,Anual
+140,Avena sativa,,,,,,Anual
+141,Baccharis artemisioides,,H,No preferida,Primavero-estival,Herbacea,Perenne
+142,Baccharis coridifolia,,,,,,Perenne
+143,Baccharis crispa,,H,No preferida,Primavero-estival,Herbacea,Perenne
+144,Baccharis darwinii,,H,No preferida,Primavero-estival,Herbacea,Perenne
+145,Baccharis giliesii,,,,,,Perenne
+146,Baccharis juncea,,,,,,Perenne
+147,Baccharis melanopotamica,,H,No preferida,Primavero-estival,Herbacea,Perenne
+148,Baccharis pingraea,,,,,,Perenne
+149,Baccharis rufescens,,,,,,Perenne
+150,Baccharis salicifolia,,,,,,Perenne
+151,Baccharis trimera,,,,,,Perenne
+152,Baccharis ulicina,,H,No preferida,Primavero-estival,Herbacea,Perenne
+153,Berberis ruscifolia,,,,,,Perenne
+154,Beta vulgaris,,,,,,Perenne
+155,Bidens pilosa,,,,,,Anual
+156,Boopis anthemoides,,H,,Primavero-estival,Herbacea,Anual
+157,Bothriochloa barbinodis,,,,,,Perenne
+158,Bothriochloa springfieldii,,H,Preferida,Primavero-estival,Herbacea,Perenne
+159,Bounganvillea spinosa,,F,Intermedia,Primavero-estival,Leñosa,Perenne
+160,Bouteloua megapotamica,,,,,,Perenne
+161,Bowlesia incana,,P,No preferida,Primavero-estival,Herbacea,Anual
+162,Brachyclados lycioides,,F,Preferida,Primavero-estival,Leñosa,Perenne
+163,Brassica campestris,,P,,Primavero-estival,Herbacea,Anual
+164,Brassica nigra,,,,,,Anual
+165,Bredemeyera microphylla,,C,Intermedia,Primavero-estival,Leñosa,Perenne
+166,Briza subaristata,,,,,,Perenne
+167,Bromus auleticus,,,,,,Perenne
+168,Bromus brevis,,P,Preferida,Primavero-estival,Herbacea,Anual
+169,Bromus mollis,,,,,,Anual
+170,Bromus unioloides,,,,,,Perenne
+171,Buddleja mendozensis,,,,,,Perenne
+172,Bulnesia retama,,F,Intermedia,Primavero-estival,Leñosa,Perenne
+173,Caesalpinia gilliesii,,,,,,Perenne
+174,Calycera crassifolia,,H,No preferida,Primavero-estival,Herbacea,Perenne
+175,Camelina sativa,,,,,,Perenne
+176,Camissonia dentata,,,,,,Anual
+177,Capsella bursa-pastoris,,,,,,Anual
+178,Cardionema ramosissimum,,H,No preferida,Primavero-estival,,Anual
+179,Carduus nutans,Carduus thoermeri Weinm,P,Intermedia,Primavero-estival,Herbacea,Anual
+180,Carex bonariensis,,H,No preferida,Primavero-estival,Herbacea,Perenne
+181,Carex sororia,,,,,,Perenne
+182,Carthamus lanatus,,,,,,Anual
+183,Cassia aphylla,Senna aphylla,C,No preferida,Primavero-estival,Herbacea,Perenne
+184,Cenchrus myosuroides,,,,,,Perenne
+185,Cenchrus pauciflorus,Cenchrus spinifex,P,No preferida,Primavero-estival,Herbacea,Anual
+186,Centaurea calcitrapa,,,,,,Anual
+187,Centaurea melitensis,,,,,,Anual
+188,Centaurea solstitialis,,P,Intermedia,Primavero-estival,Herbacea,Anual
+189,Cerastium junceum,,P,No preferida,Primavero-estival,Herbacea,Anual
+190,Cercidium australe,Cercidium praecox ssp glaucum,F,No preferida,Primavero-estival,Herbacea,Perenne
+191,Cereus aethiops,,Cactacea,,,,Perenne
+192,Chaetotropis elongata,,,,,,Anual
+193,Cheilanthes micropteris,,,,,,Perenne
+194,Cheilanthes myriophylla,,,,,,Perenne
+195,Chenopodium album,,P,No preferida,Primavero-estival,Herbacea,Anual
+196,Chenopodium chilense,,,,,,Anual
+197,Chenopodium multifidum,,,,,,Anual
+198,Chenopodium pappulosum,,,,,,Anual
+199,Chenopodium pratericola,,,,,,Anual
+200,Chiropetalum patagonicum,,,,,,Anual
+201,Chloris retusa,,,,,,Perenne
+202,Chuquiraga erinacea,,C,No preferida,Primavero-estival,Leñosa,Perenne
+203,Chuquiraga hystrix,,,,,,Perenne
+204,Chuquiraga rosulata,,C,No preferida,Primavero-estival,Leñosa,Perenne
+205,Cirsium vulgare,,,,,,Anual
+206,Clematis montevidensis,,,,,,Perenne
+207,Condalia microphylla,,F,No preferida,Primavero-estival,Leñosa,Perenne
+208,Conium maculatum,,,,,,Anual
+209,Convolvulus arvensis,,,,,,Anual
+210,Conyza apurensis,,,,,,Perenne
+211,Conyza blakei,,C,No preferida,Primavero-estival,Herbacea,Anual
+212,Conyza bonariensis,,C,No preferida,Primavero-estival,Herbacea,Anual
+213,Conyza monorchis,,,,,,Perenne
+214,Conyza lorentzii,,C,No preferida,Primavero-estival,Herbacea,Perenne
+215,Cortaderia selloana,,,,,,Perenne
+216,Cottea pappophoroides,,H,Preferida,Primavero-estival,Herbacea,Perenne
+217,Cotula australis,,,,,,Anual
+218,Crepis setosa,,,,,,Perenne
+219,Cressa truxilliensis,,,,,,Anual
+220,Cryptantha mendocina,,P,No preferida,Primavero-estival,Herbacea,Anual
+221,Cucumis anguria,,,,,,Anual
+222,Cucurbita andreana,,,,,,Anual
+223,Cucurbitella asperata,,,,,,Perenne
+224,Cyclolepis genistoides,,F,Preferida,Primavero-estival,Herbacea,Perenne
+225,Cylindropuntia tunicata,,,,,,Perenne
+226,Cynodon dactylon,,,,,,Perenne
+227,Cynodon hirsutus,,H,Preferida,Primavero-estival,Herbacea,Perenne
+228,Cyperus cayennensis,,,,,,Perenne
+229,Cyperus eragrostis,,,,,,Perenne
+230,Datura ferox,,,,,,Anual
+231,Daucus pusillus,,F,No preferida,Primavero-estival,Herbacea,Anual
+232,Descurainia argentina,Descurainia erodilifolia,P,No preferida,Primavero-estival,Herbacea,Anual
+233,Dichondra sericea,,,,,,Perenne
+234,Digitaria californica,,H,Preferida,Primavero-estival,Herbacea,Perenne
+235,Digitaria sanguinalis,,,,,,Anual
+236,Diplachne dubia,,,,,,Perenne
+237,Diplachne uninervia,,,,,,Perenne
+238,Diplotaxis tenuifolia,,,,,,Perenne
+239,Discaria longispina,Discaria americana,F,Preferida,Primavero-estival,Leñosa,Perenne
+240,Distichlis scoparia,,H,Preferida,Primavero-estival,Herbacea,Perenne
+241,Distichlis spicata,,H,Preferida,Primavero-estival,Herbacea,Perenne
+242,Dolichlasium lagascae,,,,,,Perenne
+243,Doniophyton patagonicum,,,,,,Anual
+244,Draba australis,Tomostima australis,P,No preferida,Primavero-estival,Herbacea,Anual
+245,Echinochloa crusgalli,,,,,,Perenne
+246,Echinopsis melanopotamica,,,,,,Perenne
+247,Echium plantagineum,,P,No preferida,Primavero-estival,Herbacea,Anual
+248,Eleusine tristachya,,,,,,Perenne
+249,Elymus erianthus,Eremium erianthum,H,,Invernal,Herbacea,Perenne
+250,Elyonurus muticus,,H,No preferida,Primavero-estival,Herbacea,Perenne
+251,Ephedra ochreata,,C,Intermedia,Primavero-estival,Leñosa,Perenne
+252,Ephedra triandra,,C,Intermedia,Primavero-estival,Leñosa,Perenne
+253,Equisetum giganteum,,,,,,Perenne
+254,Eragrostis cilianensis,,H,Intermedia,Primavero-estival,Herbacea,Anual
+255,Eragrostis curvula,,,,,,Perenne
+256,Eragrostis lugens,,H,Preferida,Primavero-estival,Herbacea,Perenne
+257,Eragrostis virescens,,,,,,Anual
+258,Erioneuron pilosum,,,,,,Anual
+259,Erodium cicutarium,,P,Preferida,Primavero-estival,Herbacea,Anual
+260,Erodium malacoides,,,,,,Anual
+261,Eruca sativa,,,,,,Anual
+262,Eryngium paniculatum,,,,,,Perenne
+263,Erysimum repandum,,,,,,Anual
+264,Eupatorium patens,,Enredadera,No preferida,Primavero-estival,Herbacea,Perenne
+265,Euphorbia helioscopia,,,,,,Anual
+266,Euphorbia peplus,,,,,,Anual
+267,Euphorbia portulacoides,,H,No preferida,Primavero-estival,Herbacea,Perenne
+268,Euphorbia serpens,,H,No preferida,Primavero-estival,Herbacea,Anual
+269,Evolvulus sericeus,,,,,,Perenne
+270,Fabiana viscosa,,F,No preferida,Primavero-estival,Leñosa,Perenne
+271,Facelis retusa,,P,No preferida,Primavero-estival,Herbacea,Anual
+272,Flaveria bidentis,,,,,,Anual
+273,Foeniculum vulgare,,,,,,Anual
+274,Frankenia pulverulenta,,,,,,Anual
+275,Gaillardia cabrerae,,,,,,Perenne
+276,Gaillardia megapotamica,,C,No preferida,Primavero-estival,Herbacea,Perenne
+277,Gaillardia megapotamica var. Scabiosoides,,,,,,Perenne
+278,Galactia marginalis,,,,,,Perenne
+279,Gamochaeta calviceps,,H,No preferida,Primavero-estival,Herbacea,Perenne
+280,Gamochaeta filaginea,,H,No preferida,Primavero-estival,Herbacea,Anual
+281,Gamochaeta pensylvanica,,,,,,Perenne
+282,Gaya gaudichaudiana,,,,,,Perenne
+283,Geoffroea decorticans,,F,Intermedia,Primavero-estival,Leñosa,Perenne
+284,Gilia laciniata,,P,No preferida,Primavero-estival,Herbacea,Anual
+285,Glandularia flava,,,,,,Perenne
+286,Glandularia hookeriana,,C,No preferida,Primavero-estival,Herbacea,Perenne
+287,Glandularia peruviana,,,,,,Perenne
+288,Glandularia platensis,,,,,,Perenne
+289,Glandularia pulchella,,C,No preferida,Primavero-estival,Herbacea,Anual
+290,Glyceria multiflora,,,,,,Perenne
+291,Gnaphalium gaudichaudianum,,,,,,Perenne
+292,Gnaphalium philipii,Cambió el nombre,C,No preferida,Primavero-estival,Leñosa,Perenne
+293,Gochnatia glutinosa,,,,,,Perenne
+294,Gomphrena tomentosa,,,,,,Anual
+295,Grabowskya duplicata,,,,,,Perenne
+296,Grahamia bracteata,,,,,,Perenne
+297,Grindelia chiloensis,,C,No preferida,Primavero-estival,Herbacea,Perenne
+298,Grindelia pulchella,,,,,,Perenne
+299,Grindelia tehuelches,,,,,,Perenne
+300,Gutierrezia gilliesii,,C,No preferida,Primavero-estival,Herbacea,Perenne
+301,Gymnocalyoci gibbosumum,,,,,,Perenne
+302,Habrantus jamesoni,,G,No preferida,Primavero-estival,Herbacea,Perenne
+303,Halimolobus montanus,,,,,,Anual
+304,Hedeoma multiflorum,,,,,,Anual
+305,Helianthus petiolaris,,,,,,Anual
+306,Heliotropium amplexicaule,,,,,,Perenne
+307,Heliotropium curassavicum,,C,No preferida,Primavero-estival,Herbacea,Perenne
+308,Heliotropium mendocinum,,C,No preferida,Primavero-estival,Herbacea,Perenne
+309,Herniaria hirsuta,,P,No preferida,Primavero-estival,Herbacea,Anual
+310,Heterostachys ritteriana,,,,,,Perenne
+311,Hidrocotyle bonariensis,,,,,,Perenne
+312,Hirschfeldia incana,,,,,,Perenne
+313,Hoffmannseggia falcaria,Hoffmannseggia glauca (Ortega) Eifert,H,Intermedia,Primavero-estival,Herbacea,Perenne
+314,Hoffmannseggia patagonica,Hoffmannseggia erecta Phil.,H,Intermedia,Primavero-estival,Herbacea,Perenne
+315,Hoffmannseggia trifoliata,,,,,,Perenne
+316,Hordeum compressum,,,,,,Anual
+317,Hordeum glaucum,,,,,,Anual
+318,Hordeum jubatum,,,,,,Anual
+319,Hordeum procerum,,,,,,Anual
+320,Hordeum pusillum,,P,Preferida,Invernal,Herbacea,Anual
+321,Hordeum pusillum subsp. Euclaston,,,,,,Anual
+322,Hordeum pusillum subsp. Flexuosum,,,,,,Anual
+323,Hordeum stenostachys,,H,Preferida,Invernal,Herbacea,Perenne
+324,Hyalis argentea,,H,No preferida,Primavero-estival,Herbacea,Perenne
+325,Hybanthus parviflorus,,,,,,Anual
+326,Hybanthus serratus,,,,,,Anual
+327,Hymenoxis anthemoides,,,,,,Perenne
+328,Hypochoeris pampasica,,,,,,Perenne
+329,Hysterionica jassionoides,,C,No preferida,Primavero-estival,Herbacea,Perenne
+330,Ibicella lutea,,,,,,Anual
+331,Ibicella parodii,,,,,,Anual
+332,Jaborosa bergii,,,,,,Perenne
+333,Jodina rhombifolia,,F,No preferida,Primavero-estival,Leñosa,Perenne
+334,Juncus acutus,,H,No preferida,Primavero-estival,Herbacea,Perenne
+335,Juncus balticus,,,,,,Perenne
+336,Kochia scoparia,,,,,,Anual
+337,Koeleria permollis,,,,,,Perenne
+338,Lactuca saligna,,,,,,Anual
+339,Lactuca serriola,,P,No preferida,Primavero-estival,Herbacea,Anual
+340,Lamium amplexicaule,,,,,,Anual
+341,Lappula redowskii,,,,,,Anual
+342,Larrea cuneifolia,,F,No preferida,Primavero-estival,Leñosa,Perenne
+343,Larrea divaricata,,F,No preferida,Primavero-estival,Leñosa,Perenne
+344,Larrea nitida,,F,No preferida,Primavero-estival,Leñosa,Perenne
+345,Lathyrus crassipes,,,,,,Anual
+346,Lathyrus pubescens,,,,,,Anual
+347,Lecanophora ecristata,,H,No preferida,Primavero-estival,Herbacea,Perenne
+348,Lecanophora heterophylla,,H,No preferida,Primavero-estival,Herbacea,Perenne
+349,Lepidium bonariense,,P,No preferida,Primavero-estival,Herbacea,Perenne
+350,Lepidium myrianthum,,,,,,Anual
+351,Lesquerella mendocina,,,,,,Perenne
+352,Limonium brasiliense,,C,No preferida,Primavero-estival,Herbacea,Perenne
+353,Linaria texana,Linaria canadensis L.Dum. Cours.,H,No preferida,Primavero-estival,Herbacea,Anual
+354,Lippia turbinata,,,,,,Perenne
+355,Lolium multiflorum,,,,,,Anual
+356,Lycium chilense,,F,Preferida,Primavero-estival,Herbacea,Perenne
+357,Lycium chilense var. Minutifolium,,C,Preferida,Primavero-estival,Herbacea,Perenne
+358,Lycium gilliessianum,,C,No preferida,Primavero-estival,Herbacea,Perenne
+359,Lycium tenuispinossum,,,,,,Perenne
+360,Macrosiphonia petraea,,,,,,Perenne
+361,Malva parviflora,,,,,,Anual
+362,Malva silvestris,,,,,,Perenne
+363,Margyricarpus pinnatus,,C,No preferida,Primavero-estival,Herbacea,Perenne
+364,Marrubium vulgare,,G,No preferida,Primavero-estival,Herbacea,Perenne
+365,Maytenus spinosa,,,,,,Perenne
+366,Maytenus vitis-idaea,,,,,,Perenne
+367,Mecardonia montevidensis,,,,,,Perenne
+368,Medicago minima,,P,Preferida,Invernal,Herbacea,Anual
+369,Medicago polymorpha,,,,,,Anual
+370,Medicago sativa,,,,,,Perenne
+371,Melica argyrea,,,,,,Perenne
+372,Melica bonariensis,,,,,,Perenne
+373,Melica macra,,,,,,Perenne
+374,Melilotus albus,,,,,,Anual
+375,Melilotus officinalis,,,,,,Anual
+376,Melilotus indicus,,P,Preferida,Primavero-estival,Herbacea,Anual
+377,Menodora integrifolia,,C,Preferida,Primavero-estival,Herbacea,Perenne
+378,Menodora robusta,,,,,,Perenne
+379,Mentzelia albescens,,,,,,Anual
+380,Micropsis spathulata,,P,No preferida,Primavero-estival,Herbacea,Anual
+381,Mimulus glabratus,,,,,,Perenne
+382,Mionandra camarioides,,,,,,Anual
+383,Mitracarpus megapotamicus,,,,,,Perenne
+384,Monnina dictyocarpa,,,,,,Perenne
+385,Monttea aphylla,,F,Preferida,Primavero-estival,Leñosa,Perenne
+386,Morrenia odorata,,,,,,Perenne
+387,Muehlembeckia sagittifolia,,,,,,Perenne
+388,Muhlembergia asperifolia,,,,,,Perenne
+389,Muhlenbergia gracillima,,P,No preferida,Primavero-estival,Leñosa,Perenne
+390,Myriophyllum elatinoides,,,,,,Perenne
+391,Neosparton aphyllum,,F,No preferida,Primavero-estival,Leñosa,Perenne
+392,Nicotiana noctiflora,,,,,,Anual
+393,Nicotiana petunioides,,,,,,Anual
+394,Nierembergia aristata,,C,No preferida,Primavero-estival,Herbacea,Perenne
+395,Nierembergia hippomanica,,C,No preferida,Primavero-estival,Herbacea,Perenne
+396,Nitrophila australis,,,,,,Perenne
+397,Oenothera indecora,,P,Intermedia,Primavero-estival,Herbacea,Anual
+398,Oenothera mollisima,,,,,,Anual
+399,Oenothera parodiana,,,,,,Anual
+400,Onopordon acanthium,,C,No preferida,Primavero-estival,Herbacea,Anual
+401,Opuntia pampeana,,,,,,Perenne
+402,Opuntia salagria,,,,,,Perenne
+403,Oxalis cordobensis,,,,,,Anual
+404,Oxybaphus ovatus,,,,,,Perenne
+405,Panicum bergii,,,,,,Perenne
+406,Panicum capillare,,,,,,Anual
+407,Panicum urvilleanum,,G,Intermedia,Primavero-estival,Herbacea,Perenne
+408,Pappophorum caespitossum,,H,Preferida,Primavero-estival,Herbacea,Perenne
+409,Pappophorum mucronulatum,,,,,,Perenne
+410,Parapholis incurva,,,,,,Perenne
+411,Parietaria debilis,,P,No preferida,Primavero-estival,Herbacea,Anual
+412,Parietaria officinalis,,,,,,Anual
+413,Parkinsonia aculeata,,,,,,Perenne
+414,Paronychia chilensis,,,,,,Perenne
+415,Parthenium hysterophorus,,,,,,Perenne
+416,Paspalum distichum,,,,,,Perenne
+417,Paspalum notatum,,,,,,Perenne
+418,Paspalum vaginatum,,,,,,Perenne
+419,Pectocarya linearis,,,,,,Anual
+420,Pellaea ternifolia,,,,,,Perenne
+421,Pellaea nivea,,,,,,Perenne
+422,Pelletiera serpyllifolia,,P,No preferida,Primavero-estival,Herbacea,Anual
+423,Perezia kingii,,,,,,Anual
+424,Petunia axillaris,,,,,,Anual
+425,Petunia parviflora,,,,,,Perenne
+426,Pfaffia gnaphalioides,,,,,,Perenne
+427,Phacelia artemisioides,,C,No preferida,Primavero-estival,Herbacea,Anual
+428,Phalaris angusta,,,,,,Anual
+429,Philibertia gilliesii,,,,,,Perenne
+430,Phragmites australis,,,,,,Perenne
+431,Phyla canescens,,,,,,Perenne
+432,Physalis mendocina,,,,,,Perenne
+433,Picrosia longifolia,,,,,,Perenne
+434,Piptochaetium napostaense,,H,Preferida,Primavero-estival,Herbacea,Perenne
+435,Piptochaetium stipoides,,,,,,Perenne
+436,Pitraea cuneato-ovata,,,,,,Perenne
+437,Plantago heterophylla,,,,,,Anual
+438,Plantago lanceolata,,,,,,Perenne
+439,Plantago myosurus,,P,Preferida,Primavero-estival,Herbacea,Anual
+440,Plantago patagonica,,P,Preferida,Primavero-estival,Herbacea,Anual
+441,Poa annua,,,,,,Anual
+442,Poa lanuginosa,,H,Preferida,Invernal,Herbacea,Perenne
+443,Poa ligularis,,H,Preferida,Invernal,Herbacea,Perenne
+444,Polygala aspalatha,,,,,,Perenne
+445,Polygala stenophylla,,C,No preferida,,Herbacea,Perenne
+446,Polygonum aviculare,,,,,,Anual
+447,Polygonum brasiliense,,,,,,Perenne
+448,Polypogon monspeliensis,,,,,,Anual
+449,Portulaca grandiflora,,,,,,Perenne
+450,Portulaca oleracea,,,,,,Anual
+451,Potamogeton pectinatus,,,,,,Perenne
+452,Prosopanche americana,,,,,,Perenne
+453,Prosopanche bonacine,,,,,,Perenne
+454,Prosopidastrum globossum,,F,Preferida,Primavero-estival,Leñosa,Perenne
+455,Prosopis alpataco,,F,No preferida,Primavero-estival,Leñosa,Perenne
+456,Prosopis caldenia,,F,Preferida,Primavero-estival,Leñosa,Perenne
+457,Prosopis flexuosa,,F,Preferida,Primavero-estival,Leñosa,Perenne
+458,Prosopis humilis,,C,No preferida,Primavero-estival,Leñosa,Perenne
+459,Prosopis strombulifera,,,,,,Perenne
+460,Proustia cuneifolia,,,,,,Perenne
+461,Psila spartioides,,,,,,Perenne
+462,Psila tenella,Baccharis tenella,C,No preferida,Primavero-estival,Herbacea,Perenne
+463,Pterocactus tuberosus,,,,,,Perenne
+464,Puccinellia glaucescens,,C,,,Herbacea,Perenne
+465,Ranunculus bonariensis,,,,,,Perenne
+466,Ranunculus cymbalaria,,,,,,Perenne
+467,Raphanus sativus,,,,,,Perenne
+468,Rapistrum rugossum,,,,,,Perenne
+469,Relbunium richardianum,Galium richardianum,P,No preferida,Primavero-estival,Herbacea,Anual
+470,Rhynchosia senna,,,,,,Perenne
+471,Rodophiala mendocina,,,,,,Perenne
+472,Rorippa bonariensis,,,,,,Perenne
+473,Rorippa nasturtium-aquaticum,,,,,,Perenne
+474,Rumex acetosella,,,,,,Perenne
+475,Rumex crispus,,C,,,Herbacea,Perenne
+476,Sagina chilensis,,,,,,Perenne
+477,Salicornia ambigua,,C,No preferida,Primavero-estival,Herbacea,Perenne
+478,Salix humboldtiana,,,,,,Perenne
+479,Salpichroa origanifolia,,,,,,Perenne
+480,Salsola kali,,,,,,Anual
+481,Salvia verbenaca,,,,,,Perenne
+482,Schedonardus paniculatus,,,,,,Perenne
+483,Schinus fasciculatus,,F,No preferida,Primavero-estival,Leñosa,Perenne
+484,Schinus jhonstonii,,F,No preferida,Primavero-estival,Leñosa,Perenne
+485,Schismus barbatus,,P,Preferida,Primavero-estival,Herbacea,Anual
+486,Schizachyrium plumigerum,,H,Preferida,Primavero-estival,Herbacea,Perenne
+487,Schkuria pinnata,,P,No preferida,Primavero-estival,Herbacea,Anual
+488,Scirpus americanus,,,,,,Perenne
+489,Scirpus californicus,,,,,,Perenne
+490,Scirpus cernuus,,,,,,Perenne
+491,Scoparia montevidensis,,,,,,Perenne
+492,Senecio ceratophylloides,,C,No preferida,Primavero-estival,Herbacea,Perenne
+493,Senecio filaginoides,,,,,,Perenne
+494,Senecio goldsackii,,C,No preferida,Primavero-estival,Herbacea,Perenne
+495,Senecio melanopotamicus,,,,,,Perenne
+496,Senecio pampeanus,,C,No preferida,Primavero-estival,Herbacea,Perenne
+497,Senecio subulatus,,C,No preferida,Primavero-estival,Herbacea,Perenne
+498,Sesuvium portulacastrum,,,,,,Anual
+499,Setaria leiantha,,,,,,Perenne
+500,Setaria leucopila,,H,Preferida,Primavero-estival,Herbacea,Perenne
+501,Setaria mendocina,,H,,Primavero-estival,Herbacea,Perenne
+502,Setaria pampeana,,H,Preferida,Primavero-estival,Herbacea,Perenne
+503,Sida leprosa,,,,,,Perenne
+504,Sida physocalix,Rynchosida physocalix,C,,Primavero-estival,Herbacea,Perenne
+505,Silene antirrhina,,P,,Primavero-estival,Herbacea,Anual
+506,Silybum marianum,,,,,,Anual
+507,Sisymbrium altissimum,,,,,,Anual
+508,Sisymbrium irio,,,,,,Anual
+509,Sisyrinchium iridifolium,,,,,,Anual
+510,Sisyrinchium pachyrhizum,,,,,,Anual
+511,Sisyrinchium platense,,,,,,Anual
+512,Solanum eleagnifolium,,C,No preferida,Primavero-estival,Herbacea,Perenne
+513,Solanum meloncillo,,H,No preferida,Primavero-estival,Herbacea,Perenne
+514,Solanum pyrethrifolium,,,,,,Perenne
+515,Solidago chilensis,,,,,,Perenne
+516,Sonchus asper,,P,No preferida,Primavero-estival,Herbacea,Anual
+517,Sonchus oleraceus,,,,,,Perenne
+518,Sorghastrum pellitum,,,,,,Perenne
+519,Sorghum halepense,,,,,,Perenne
+520,Spergula platensis,,,,,,Anual
+521,Spergula ramosa,,,,,,Anual
+522,Spermolepis castellanosii,,P,,Primavero-estival,Herbacea,Anual
+523,Sphaeralcea crispa,,C,No preferida,Primavero-estival,Herbacea,Perenne
+524,Sphaeralcea mendocina,,C,No preferida,Primavero-estival,Herbacea,Perenne
+525,Spilanthes decumbens,,,,,,Perenne
+526,Sporobolus cryptandrus,,H,Preferida,Primavero-estival,Herbacea,Perenne
+527,Sporobolus indicus,,,,,,Perenne
+528,Sporobolus pyramidatus,,,,,,Perenne
+529,Sporobolus rigens,,,,,,Perenne
+530,Stellaria media,,,,,,Anual
+531,Stevia satureiaefolia,,C,No preferida,Primavero-estival,Herbacea,Perenne
+532,Stipa ambigua,,H,No preferida,Invernal,Herbacea,Perenne
+533,Stipa brachychaeta,,H,No preferida,Invernal,Herbacea,Perenne
+534,Stipa caudata,,H,,Invernal,Herbacea,Perenne
+535,Stipa eriostachya,,,,,,Perenne
+536,Stipa filiculmis,,,,,,Perenne
+537,Stipa gynerioides,,H,No preferida,Invernal,Herbacea,Perenne
+538,Stipa humilis,,,,,,Perenne
+539,Stipa hypsophyla,,,,,,Perenne
+540,Stipa longiglumis,,,,,,Perenne
+541,Stipa neaei,,H,Preferida,Invernal,Herbacea,Perenne
+542,Stipa neesiana,,,,,,Perenne
+543,Stipa papposa,,,,,,Perenne
+544,Stipa sanluisensis,,,,,,Perenne
+545,Stipa speciosa,,H,No preferida,Invernal,Herbacea,Perenne
+546,Stipa tenuis,,H,Preferida,Invernal,Herbacea,Perenne
+547,Stipa tenuissima,,H,No preferida,Invernal,Herbacea,Perenne
+548,Stipa trichotoma,,H,No preferida,Invernal,Herbacea,Perenne
+549,Stuckertiella peregrina,,P,No preferida,Primavero-estival,Herbacea,Anual
+550,Suaeda divaricata,,C,No preferida,Primavero-estival,Herbacea,Perenne
+551,Suaeda patagonica,,,,,,Perenne
+552,Tagetes mendocina,,,,,,Anual
+553,Tagetes minuta,,,,,,Anual
+554,Tamarix gallica,,,,,,Perenne
+555,Taraxacum officinale,,G,No preferida,Primavero-estival,Herbacea,Perenne
+556,Tephrocactus darwinii,,,,,,Perenne
+557,Tessaria absinthioides,,,,,,Perenne
+558,Thelesperma megapotamicum,,H,Preferida,Primavero-estival,Herbacea,Perenne
+559,Thymophylla belenidium,,P,No preferida,Primavero-estival,Herbacea,Anual
+560,Tillandsia bryoides,,,,,,Perenne
+561,Tillandsia gilliesii,,,,,,Perenne
+562,Tillandsia retorta,,,,,,Perenne
+563,Tragopogon dubius,,,,,,Anual
+564,Tragus racemosus,,,,,,Perenne
+565,Tribulus terrestris,,,,,,Anual
+566,Trichloris crinita,,H,Preferida,Primavero-estival,Herbacea,Perenne
+567,Trichocereus courantii,,,,,,Perenne
+568,Trichocline sinuata,,C,No preferida,Primavero-estival,Herbacea,Perenne
+569,Trifolium repens,,,,,,Perenne
+570,Triodanis biflora,,,,,,Perenne
+571,Trixis papillosa,,,,,,Perenne
+572,Turnera pinnatifida,,C,No preferida,Primavero-estival,Herbacea,Perenne
+573,Tweedia brunonis,,,,,,Perenne
+574,Typha latifolia,,,,,,Perenne
+575,Urtica chamaedryoides,,,,,,Anual
+576,Verbascum virgatum,,,,,,Anual
+577,Verbena alatocarpa,Junellia alatocarpa,C,No preferida,Primavero-estival,Herbacea,Perenne
+578,Verbena aspera,,C,No preferida,Primavero-estival,Herbacea,Perenne
+579,Verbena connatibracteata,,C,No preferida,Primavero-estival,Herbacea,Perenne
+580,Verbena crithmifolia,,C,No preferida,Primavero-estival,Herbacea,Perenne
+581,Verbena gracilescens,,,,,,Perenne
+582,Verbena intermedia,,C,No preferida,Primavero-estival,Herbacea,Perenne
+583,Verbena scoparia,,,,,,Perenne
+584,Verbena seriphioides,,C,No preferida,Primavero-estival,Herbacea,Perenne
+585,Verbesina encelioides,,,,,,Anual
+586,Veronica peregrina,,,,,,Perenne
+587,Vicia pampicola,,,,,,Perenne
+588,Vittadinia trifurcata,,,,,,Perenne
+589,Vulpia australis,,P,Intermedia,Primavero-estival,Herbacea,Anual
+590,Vulpia myuros,,,,,,Perenne
+591,Vulpia octoflora,,,,,,Perenne
+592,Wahlembergia linarioides,,,,,,Anual
+593,Wedelia buphthalmiflora,,,,,,Perenne
+594,Wigginsia sessiliflora,,,,,,Perenne
+595,Woodsia montevidensis,,,,,,Perenne
+596,Xanthium ambrosioides,,,,,,Anual
+597,Xanthium cavanilliesii,,,,,,Anual
+598,Xanthium spinosum,,,,,,Anual
+599,Ximenia americana,,,,,,Perenne
+600,Zephiranthes filifolia,,G,No preferida,Primavero-estival,Herbacea,Perenne
+601,,,,,,,Perenne

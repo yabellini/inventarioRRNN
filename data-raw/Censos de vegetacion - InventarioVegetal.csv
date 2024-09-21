@@ -1,0 +1,352 @@
+idInventario,nCensoInventario,idObservador,nombreComunidadInventario,lugarInventario,relieveInventario,sueloInventario,nSueloInventario,fechaInventario,idLocalidad,latitudInventario,longitudInventario,poligonoInventario,idDepartamento,tipoComunidadInventario
+33,503,2,"Jarillal, pastizal.",Picada ruta a Lihuel Calel. Lote 19. Fraccion B. Area exquema.,Pendiente,0,NULL,,0,"-38,0239600","-64,9384300",NULL,0,2
+34,512,1,Sufruticetum con larrea y pasto,Lugar no identificado. Con ficha de suelo.,Plano- pendiente alta,0,NULL,,0,"-38,1665000","-65,3660700",NULL,0,NULL
+35,532,2,Jarillal denso con pajonal,A 10 kilometros al Este de Estancia La Asturiana. Lote 7.,-,0,NULL,,0,"-37,7889700","-65,2485800",NULL,0,2
+36,540,1,Bosque abierto con pasto,Dpto Utracan. Lote 23.,-,0,NULL,,0,"-37,5911300","-65,3176900",NULL,0,1
+37,546,1,Jarillal abierto con sufructices,Dpto Limay Mahuida. Seccion: XIX. Fraccion: A. Lote: 25. A 8 km al Este de Limay Mahuida.,Plano,0,NULL,,0,"-37,1688300","-66,6058600",NULL,0,2
+38,545,3,Arbustal bajo con pastos,Dpto Utracan. Ruta 21. Lotes 9-12. A 22 km al SW de Chacharramendi.,Plano,0,NULL,,0,"-37,4140300","-65,8654100",NULL,0,2
+42,526,2,Jarillal abierto con peladales y voladuras,"Dpto Curacó. Ruta 23, a 8 Km al Oeste de la Ea 4 Hermanos. Lote: 12.",-,0,NULL,,0,"-38,7874000","-65,7728100",NULL,0,2
+46,519,2,Jarilla con arbustos y subfrutices,Dpto Lihue Calel. Al Sur de San Jorge.,Pendiente plana suave,0,NULL,,0,"-38,5692000","-65,1822400",NULL,0,2
+47,520,1,Jarillal abierto con arbustos y subfrutice,"1,5 Km al Oeste de San Jorge. Lote: 17",Pendiente,0,NULL,,0,"-38,4706600","-65,2173400",NULL,0,2
+48,307,1,Jarillal,"Dpto Loventue. Ruta 105, a 4 km al Este del Durazno.",Media pendiente,0,NULL,,0,"-36,6935700","-65,2269300",NULL,0,2
+49,521,2,Jarillal muy abierto con sufrutice abierto,"Dpto Curaco. Ruta 152. Entre Puelches y Duval, frente a Ea La Emilia. . Lote: 22.",Plano,0,NULL,,0,"-38,5555100","-66,3698600",NULL,0,2
+50,527,2,Arbustal bajo de tomillo con Jarilla.,Dpto Curaco. Gobernador Duval a 20 km al Este de ruta 152.,Plano,0,NULL,,0,"-38,7180100","-66,2201400",NULL,0,2
+51,621,1,"Jarillal abierto, Arbustal con sufrutice",Dpto Chicalco. A 50 km al NW de Sta. Isabel. Puesto Loma Baya. Lote 9.,Pendiente alta,0,NULL,,0,"-36,0105700","-67,5602000",NULL,0,2
+52,622,1,Jarillal abierto con sufrutice.,Dpto Chicalco. A 60 km al NW de Sta Isabel. Picada El Baitano Lote: 11.,Pendiente alta,0,NULL,,0,"-36,1431500","-67,6764400",NULL,0,2
+53,628,3,Jarillal con tapiz abierto de Poa Lanuginosa,Dpto Chicalco ?. Norte de ruta 20 Frente de….... Lote 19.,-,0,NULL,,0,"-36,2048900","-68,0505600",NULL,0,2
+54,632,3,Jarillal abierto,Dpto Chicalco. Ruta 151 al SW de Algarrobo del Aguila. Lote 17 y 14.,Pendiente,0,NULL,,0,"-36,6044500","-67,2714400",NULL,0,2
+55,633,3,Jarillal abierto con Plantago.,"Dpto Chicalco. Ruta 151, al Norte del Pto el Centinela. Lote: 17. A 32 km al Sur de Algarrobo del Aguila.",Pendiente,0,NULL,,0,"-36,6153400","-67,2768800",NULL,0,2
+56,576,2,Jarillal abierto con sufrutice,Dpto Puelén. A 21km al NE de Cochicó. Camino a Cochicó al SW del Pto Mazzini. Lote: 16.,Pendiente media,0,NULL,,0,"-37,1002500","-67,1715500",NULL,0,2
+59,635,1,Jarillal de Larrea Divaricata con sufrutice.,"Dpto Puelén. Ruta 151, al Sur del Pto La Adelina. 67 km al Norte de Puelén. Lote: 17.",Pendiente,0,NULL,,0,"-36,7788000","-67,3876700",NULL,0,2
+60,636,1,Jarillal muy abierto con Prosopis Alpataco.,"Dpto Puelén. Ruta 151, a 55 km al Norte de Puelén. Lote: 3.",Pendiente,0,NULL,,0,"-36,8514400","-67,4221800",NULL,0,2
+61,637,1,"Pastizal con Jarilla (Ldi, Lcu)",Lote: 9. Ruta 151 + ó - a 43 km al Norte de Puelén.,Plano,0,NULL,,0,"-36,9658600","-67,4802900",NULL,0,3
+62,638,1,Pastizal con jarilla o jarillal muy abierto.,Dpto Puelén. Ruta 151 + ó - a 26 km al Norte de Puelén.,-,0,NULL,,0,"-37,1184100","-67,5275100",NULL,0,3
+63,641,1,Jarillal-Alpatacal con Atriplex y Chuquiraga erinacea.,Sur Este de Los Pajaritos. A 3 km al Norte de Buta Ranquil.,bajo,0,NULL,,0,"-36,9876500","-67,9052700",NULL,0,2
+64,643,1,Jarillal abierto con Atriplex Lampa.,"Dpto Puelén. Area Los Carrizales, a 5 km al SE de Buta Ranquil.",-,0,NULL,,0,NULL,NULL,NULL,0,2
+65,645,1,Jarillal abierto con gramineas bajas.,"Dpto Puelén. Este de los Carrizales, a 6 Km del Pto Los Jagueles.",Bajo,0,NULL,,0,NULL,NULL,NULL,0,2
+66,689,2,Jarillal con Atriplex y Cyclolepis.,Dpto Puelén. Sección: XXIV. Fracción: D. Lote: 7. A 2 km al Sur del Pto El Toscalito.,-,0,NULL,,0,"-37,3690400","-67,8362600",NULL,0,2
+67,690,3,Jarillal de Larrea Cuneifolia y Stipa Speciosa.,Dpto Puelén. Lote:7. A 11 Km al SE del Toscalito.,Plano alto.,0,NULL,,0,"-37,3853900","-67,8017500",NULL,0,2
+68,651,3,Arbustal con Jarilla,"Dpto Puelén. Ruta 21, a 35 Km al Oeste de La Reforma.",-,0,NULL,,0,"-37,5542900","-66,5740400",NULL,0,2
+69,679,3,Jarilla abierto con Schismus.,"Dpto Curacó. Ruta 152, frente de Bajo del Milico. + ó - a 21 Km al Norte de Duval. Y + ó - a 65 Km al Suroeste de Puelches.",-,0,NULL,,0,"-38,4879600","-66,3443000",NULL,0,2
+70,70,3,Arbustal medio de Prosopis Flexuosa.,Chadileo. Ruta 20.,Plano con mucha ondulación,0,NULL,,0,"-36,7107900","-66,8481600",NULL,0,2
+71,300,1,"Caldenal, pastizal con arbustos",Loventue. La Carmen. Ruta 143 + ó - a 9 km al Este de Loventue.,"Plano, cresta (Lomada plana)",0,NULL,,0,"-36,2049100","-65,2190200",NULL,0,1
+72,312,1,Caldenal alto con mucha jarilla y renuevos,"Loventue, al Oeste de Ea Poitahué",Plano alto,0,NULL,,0,"-36,3515900","-65,5251400",NULL,0,1
+73,477,1,Pastizal con arbustos y arboles aislados,"Caleu-Caleu, Ruta 4 NE de Cuchillo-Co",Plano con una leve pendiente,0,NULL,,0,"-38,2701700","-64,4244000",NULL,0,3
+74,588,1,Jarillal con tapiz,Lihuel Calel. Lote 23. Pto Gimenez,Pendiente media,0,NULL,,0,"-38,0809700","-65,6468400",NULL,0,2
+75,544,3,Pastizal serrano de….,Limay Mahuida. Ruta 21.,Pendiente alta,0,NULL,,0,"-37,5034400","-66,1109200",NULL,0,3
+76,571,3,"Arbustal abierto de Pal, Cyclo, Ala y Cher","Chalileo. 7 km al W de ruta 20. Entrada a La Crespa, al W de el jume?. Lote 10.",Pendiente alta,0,NULL,,0,"-36,5269400","-67,0496800",NULL,0,2
+77,730,5,Estepa arbustiva,Hucal. Colorada franca? Salitral.,Pendiente media,0,NULL,,0,NULL,NULL,NULL,0,3
+78,729,3,Estepa…?,Hucal. La colorada?. Salitral,Pendiente baja,0,NULL,,0,NULL,NULL,NULL,0,3
+79,728,5,Estepa arbustiva densa Latifolida?,Hucal. La colorada? Salitral.,Bajo,0,NULL,,0,"-38,1924200","-64,0174900",NULL,0,3
+80,723,5,Matorral de cyclolepis,"Caleu. Ruta 2, Salitral.",Pendiente media,0,NULL,,0,"-38,4861486","-65,8625047",NULL,0,4
+81,726,5,Estepa muy baja,Ruta 2. Salitral negro,Pendiente baja,0,NULL,,0,NULL,NULL,NULL,0,3
+82,725,5,Estepa muy baja,Caleu. Ruta 2. Salitral negro? Zona inundada.,Salitral,0,NULL,,0,"-38,6393900","-64,1414900",NULL,0,3
+83,724,5,Algarrobal,Caleu. 38 km al norte de La Adela. Frente a salitral negro.,Pendiente alta,0,NULL,,0,NULL,NULL,NULL,0,1
+84,683,3,Pastizal …?,Caleu. + o - 1 legua antes del bajo del salitral. Al sur del salitral negro. Lote 7. Ruta 2 y 22.,Pendiente alta,0,NULL,,0,"-38,6974400","-64,0874900",NULL,0,3
+85,420,1,Hyalis,Caleu-Caleu. Valle Colorado grande,Ondulado arenoso,0,NULL,,0,"-38,3487900","-63,6218100",NULL,0,3
+86,452,2,Pajonal de medano,Caleu-Caleu. Lote 5. Seccion B.,Ondulado medanoso,0,NULL,,0,"-38,6245400","-63,5057000",NULL,0,3
+87,0444 o 0445,2,Pajonal de medano,Caleu-Caleu. Lote 22. Sección C. Ruta 154.,Ondulado medanoso,0,NULL,,0,NULL,NULL,NULL,0,3
+88,498,2,Pastizal,Lihuel. Lote 17. Ruta la pendiente?? Pichi.,Bajo,0,NULL,,0,"-38,0343200","-64,7388600",NULL,0,3
+89,497,2,Pastizal con arbustos,Lihue. Lote 17. Ruta La Banderita a Cuchillo-Co.,Depresión,0,NULL,,0,"-37,9989000","-64,7285000",NULL,0,3
+91,487,1,Dominancia de Jodina,Caleu. Lote 8=13. Ruta 18 al W de ruta 2.,Pendiente baja,0,NULL,,0,"-38,3358300","-64,2006400",NULL,0,1
+92,490,3,Arbustal abierto pastizal graminoso,Caleu-Caleu. Lote 13.,Pendiente media,0,NULL,,0,"-38,3790300","-64,2904900",NULL,0,2
+93,488,1,Arbustal denso entre Jodina,Caleu-Caleu. Lote 8=13. Ruta 18 al W de ruta 2.,Pendiente media,0,NULL,,0,"-38,3436100","-64,1652200",NULL,0,2
+94,476,1,Arbustal,"Hucal. Ruta 4, al sur de dos chañares. Ea cerro puntudo.",Pendiente baja,0,NULL,,0,"-38,1483600","-64,3423200",NULL,0,2
+95,472,2,Arbustal denso,"Caleu-Caleu. A 5 km al Norte de La Puna, ruta 2.",Pendiente alta,0,NULL,,0,"-38,3289200","-64,0624100",NULL,0,2
+96,471,2,Arbustal denso con arboles muy abierto y sufrutice,"Caleu-Caleu. Seccion IV, Fracción D, Lote 14. Ruta 2. Ea La Puna ¿?.",Pendiente,0,NULL,,0,"-38,3824800","-64,0788300",NULL,0,2
+97,438,2,Arbustal,"Hucal. Ruta 2. Lote 5, Sección D?. Al sur de la colorada grande.",Plano y pendiente,0,NULL,,0,"-38,2166100","-64,0460000",NULL,0,2
+98,499,2,Pastizal con arbustal de Ldi,Lihuel. Ruta La Banderita a Cuchillo-Co.,Plano alto,0,NULL,,0,"-38,0343671","-64,7369780",NULL,0,3
+99,493,1,Pastizal con arbustos aislados,Caleu-Caleu. De ruta 18 hacia planicie de Cazonave??. Lote 18.,Plano,0,NULL,,0,"-38,4706600","-64,2805300",NULL,0,3
+100,469,2,Pastizal con arbustal abierto y caldenes grandes aislados,"Caleu?. Lote: 17, sección: D, fracción: IV. 2 km al Oeste de Ea La Escondida.",Leve pendiente al Este,0,NULL,,0,"-38,6636900","-64,2994200",NULL,0,3
+101,0445 bis,1,Pastizal de planicie con arbustos,"Caleu-Caleu. Lote: 19, Sección: C.",Planicie,0,NULL,,0,"-38,5246500","-63,7594700",NULL,0,3
+102,422,1,Pastizal de planicie con arbustos,"Caleu-Caleu. Lote: 6-7, Sección: D. Ruta 2.",Planicie,0,NULL,,0,"-38,2848600","-64,0606900",NULL,0,3
+103,749,4,Arbustal abierto,"Reserva Chacharramendi, La Pampa. Lote 19.",-,0,NULL,,0,"-37,5416219","-65,5183685",NULL,0,2
+104,0749 bis,4,Arbustal abierto,Reserva de Chacharramendi.,-,0,NULL,,0,NULL,NULL,NULL,0,2
+105,480,3,"Jarillal con Tomillo, plantago y Schismus",Dpto Lihuel Calel. Ruta 23 al Oeste del Rio Salado. Al Este del Choique. + ó - a 40 Km al Oeste de Pichi Mahuida.,Pendiente,0,NULL,,0,"-38,7070600","-65,3017400",NULL,0,2
+106,483,1,Jarillal Abierto con,"Ruta 4, a 25 km al Norte de Pichi Mahuida. Lote: 2.",Plano,0,NULL,,0,"-38,6191400","-64,8474700",NULL,0,2
+107,492,3,"Caldenal alto denso, a abierto con pastizal alto.",Caleu-caleu. Planicie de alberdi.Lote 19.,Depresion,0,NULL,,0,"-38,4477100","-64,3007700",NULL,0,1
+108,502,2,Jarillal con pasto y sufrutice,Dpto Lihue Calel. Ruta la Banderita a Cuchillo-Co. Lote: 4. Al Este de El Rusito.,Explanicie con drenaje,0,NULL,,0,"-38,1768700","-64,7172600",NULL,0,2
+109,619,1,Jarillal de Larrea Cuneifolia.,Dpto Chicalco. Pendiente de barda de Algarrobo,Pendiente alta,0,NULL,,0,"-36,3810600","-67,1697300",NULL,0,2
+110,700,2,Arbustal,"Dpto Puelén. Ruta 21, 5 km al Este. Lote: 25.",Plano,0,NULL,,0,"-37,6342000","-67,6982300",NULL,0,2
+111,301,1,Caldenal pastizal con arbustos,Dpto Loventue. Al W de Estancia San Juan.,-,0,NULL,,0,"-36,0537357","-65,6950566",NULL,0,1
+112,354,1,Caldenal arbustal,Dpto Toay. Lote: 22. Entre ruta 15 y escuela de ruta 5. Entrada a Ea. Esluza?. En frente de Los Pinos.,Bajo,0,NULL,,0,"-36,7749500","-64,9451300",NULL,0,1
+113,368,1,Pajonal con arboles jovenes (renuevos),Dpto Atreuco. Lote: 11.,plano con un bajo a unos 3000mts al este,0,NULL,,0,"-37,0320900","-63,8752600",NULL,0,3
+114,381,2,Pastizal bajo con Distichis,"Dpto Utracan. Valle Argentino ruta 148, antes del cruce con ruta 152. Lote: 9.",-,0,NULL,,0,"-37,4123000","-64,9047400",NULL,0,3
+115,388,2,Pastizal de pasto salado,Dpto Utracan. Ruta 4 (hacia el norte). Lote: 22.,-,0,NULL,,0,"-37,6274200","-64,3302300",NULL,0,3
+116,403,1,Salitral de Atriplex,Dpto Guatrache. Lote: 6. Seccion: C.,-,0,NULL,,0,"-37,3683500","-63,5101100",NULL,0,NULL
+117,448,2,Pastizal de planicie,Dpto Caleu Caleu. Ruta 154. Sur de colorada grande. Lote: 3. Seccion: C.,Plano,0,NULL,,0,"-38,4092600","-63,6347700",NULL,0,3
+118,500,2,Pastizal arbustal con ….,Dpto Lihuel Calel. Ea La Victoria. Sobre ruta a lihuel calel.,Bajo,0,NULL,,0,"-38,0818400","-64,8131600",NULL,0,3
+119,407,1,Arbustal de halofilas,Dpto Guatrache. La Amarga. Lote: 1. Seccion: C.,Plano,0,NULL,,0,"-37,2913500","-63,8593900",NULL,0,2
+120,323,1,Pajonal de Evi quemado,Dpto Utracan. Lote: 15.,Loma medanosa,0,NULL,,0,"-37,0520400","-65,1656400",NULL,0,3
+121,356,1,Sufrutice medanosa,Dpto Toay. Valle Chapalco o Malal Huacá. Lote: 19. A 4 km al sur de la Cholita.,Loma de medano,0,NULL,,0,"-36,8389300","-64,7350700",NULL,0,NULL
+122,383,2,Pajonal de Evi y Har,Dpto Utracan. Valle Argentino. Lote: 8.,Ondulado,0,NULL,,0,"-37,3665100","-64,7716900",NULL,0,3
+123,435,2,Pajonal de medano,Dpto Hucal. Ruta 2. Lote 5.,Lomada,0,NULL,,0,"-38,1751400","-63,9838000",NULL,0,3
+124,474,1,pajonal de medanos,Dpto Hucal. Ruta 4. Ea. Dos Chañares viejo.,Pendiente alta,0,NULL,,0,"-38,0896100","-64,3509600",NULL,0,3
+126,533,1,Pajonal de medano,Dpto Utracan. Las Acacias. Km ruta 21,Alto,0,NULL,,0,"-37,3954256","-65,3458897",NULL,0,3
+127,0375 o 0376,1,Pastizal ex cultivo,Dpto Toay. Sur de Naico. Lote:10.,plano bajo,0,NULL,,0,"-36,9495200","-64,4313200",NULL,0,3
+128,382,2,Pastizal bajo de graminea,Dpto Utracan. Valle argentino. Acha. Lote:8.,Leve pendiente,0,NULL,,0,"-37,4010700","-64,7924300",NULL,0,3
+129,534,1,Pastizal de medano,Dpto Utracan. Ea. Las Acacias. Ruta 21.,Parte baja,0,NULL,,0,"-37,4019962","-65,2867541",NULL,0,3
+130,418,1,Jodina,Dpto Hucal. Ruta 154.,Pendiente del valle de colorada alta,0,NULL,,0,"-38,3064600","-63,6174900",NULL,0,1
+131,369,1,Area enmalezada,Dpto Atreuco. Ruta 14 a ruta 35. Lote 18.,Area plana,0,NULL,,0,"-37,1201400","-64,2461000",NULL,0,3
+132,404,1,Rastrojo,Dpto Guatrache. Al sur oeste de Santa Teresa. Lote: 15.,Plano levemente ondulado,0,NULL,,0,"-37,5312200","-63,5153600",NULL,0,NULL
+133,326,1,Arbustal renoval,Dpto Loventue. San Eduardo. Lote: 1.,Pendiente media,0,NULL,,0,"-36,8052900","-65,5492500",NULL,0,2
+134,380,2,Arbustal caldenal,Dpto Utracan. Ruta 148. Lote 9,Pendiente alta,0,NULL,,0,"-37,3457800","-64,9341100",NULL,0,2
+135,390,2,Jarillal con arbustos,Depto Hucal. Ruta 4 hacia el sur a 2 km de ruta 17. Lote 3,Pendiente sur del valle sur de Hucal,0,NULL,,0,"-37,9254700","-64,3034500",NULL,0,2
+136,320,1,Bosque abierto con pajonal y arbustal,Dpto Utracan. Norte de El Pico. Lote: 22.,-,0,NULL,,0,"-37,1790400","-65,4611000",NULL,0,1
+137,319,1,Bosque abierto con arbustos y poco pasto,Dpto Utracan. Sur de El Pico. Lote: 22.,-,0,NULL,,0,"-37,1600300","-65,5777300",NULL,0,1
+138,417,1,Arbustal denso de Cmi y Jarilla,Dpto Hucal. Ruta 154. Lote: 3. Seccion: C,-,0,NULL,,0,"-38,2122900","-63,6209500",NULL,0,2
+139,414,1,Fachinal,Dpto Hucal. Al Sur de Hucal. Lote: 1. Ruta 35.,Ladera de valle. Pendiente NE.,0,NULL,,0,"-37,7976100","-63,9215900",NULL,0,1
+140,331,6,Caldenal con arbustos y pastizal,Dptp Loventue. Luan Toro al Norte.,Plano,0,NULL,,0,"-36,1785500","-65,0884600",NULL,0,1
+141,308,1,Caldenal alto abierto con pastizal y algunos renuevos,Dpto Loventue. Frente a La Holanda.,Plano-Bajo,0,NULL,,0,"-36,6058600","-65,2570600",NULL,0,1
+142,374,1,"Caldenal, arbustal de pendiente",Dpto Utracan. Lote: 11.,Pendiente muy suave.,0,NULL,,0,"-37,0211800","-64,4905100",NULL,0,1
+143,313,1,"Arbustal, pastizal",Dpto Utracan. Hacia Los Cerritos. Lote 1.,Bajo,0,NULL,,0,"-37,2421100","-65,9025600",NULL,0,2
+144,314,1,"Jarillal, arbustal",Dpto Utracan. Los Cerritos. Sucesion 10.,Cresta,0,NULL,,0,"-37,1951300","-65,8979500",NULL,0,2
+145,315,1,Arbustal de chilladora,Dpto Utracan. Los Cerritos. Lote: 21.,Bajo,0,NULL,,0,"-37,1672300","-65,8992800",NULL,0,2
+146,316,1,Jarillal alpatacal con Ame,"Dpto Utracan. Saliendo de Potagua, hacia Loma Alta. Lote: 22. Area quemada.",Pendiente alta . Exposicion: SE.,0,NULL,,0,"-37,1738700","-65,8036400",NULL,0,2
+147,317,1,"Arbustal de Ldi, Cmi.",Dpto Utracan. Antes del Pico. Entre Pico y Longlioff? Lote: 21.,Cresta,0,NULL,,0,"-37,2256900","-65,5310800",NULL,0,2
+148,321,1,Arbustal,Dpto Utracan. Al sur de el Motor. Lote: 19.,Pendiente alta. Exposicion: Este.,0,NULL,,0,"-37,1125200","-65,4516000",NULL,0,2
+149,341,6,"Caldenal, arbustal, pajonal",Dpto Conhelo. Ruta 143. Entre ceñola y conhelo. A 7 km de Ceñola. Lote: 7.,Plano- Parte alta de un plano,0,NULL,,0,"-35,9967048","-64,6765078",NULL,0,1
+150,343,6,Caldenal antiguo con renuevos.,"Dpto Conhelo. Entre Luan Toro y ruta 35. Sobre ruta 12. Lote: 17. A mas o menos 33 km al Oeste del cruce de la ruta 35, altura Winifreda (Antes de la querencia)",Plano,0,NULL,,0,"-36,2069646","-64,6715798",NULL,0,1
+151,344,6,Caldenal,Dpto Conhelo. Ruta 12 a 64 km al oeste del cruce de Winifreda. Lote: 22. Al NE La Beatriz.,Con ondulaciones,0,NULL,,0,"-36,2526400","-64,9232700",NULL,0,1
+152,346,6,Caldenal abierto con pajonal,Dpto Capital. Ruta 4. Lote: 1. Norte la Ea. La Rinconada.,Normal,0,NULL,,0,"-36,3845500","-64,5044200",NULL,0,1
+153,353,1,"Caldenal alto, pastizal",Dpto Toay. Ruta Santa Rosa. Ea Nerecó. Luan Toro. Lote:9.,Bajo,0,NULL,,0,"-36,5295900","-64,9086900",NULL,0,1
+154,352,1,Pajonal de Sts y Sgy,"Dpto Loventue. Al Oeste de ruta de Luan Toro, Los Pinos. Al Oeste de La Monica.",Planicie,0,NULL,,0,"-36,5334300","-65,1385300",NULL,0,3
+155,350,1,Pajonal de Evi y Nar,Dpto Loventue. Ruta Luan Toro. Ea San Cayetano. Lote: 5.,"Loma, Pendiente alta",0,NULL,,0,"-36,4213311","-65,0863502",NULL,0,3
+156,389,2,Caldenal,Dpto Hucal. Ruta 4. frente a Ea. Hucal Chico.,-,0,NULL,,0,"-37,8779500","-64,3077700",NULL,0,1
+157,372,1,Pajonal alto de bajo,Dpto Utracan. Ruta 14 a 10 km al oeste de ruta 35. Lote: 20.,Parte baja de un area lomada.,0,NULL,,0,"-37,1153500","-64,4194900",NULL,0,3
+158,373,1,Pajonal de Stipa tenuissima.,Dpto Utracan. Al norte de Quehue. Lote. 20.,Plano,0,NULL,,0,"-37,0834800","-64,5092100",NULL,0,3
+159,484,1,Caldenal,Dpto Caleu Caleu. 25 km al norte de La Adela. Ruta 2.,Depresión,0,NULL,,0,"-38,8256700","-64,0618500",NULL,0,1
+160,486,1,Caldenal ralo con arbustos y Ldi,Dpto Caleu Caleu. Ruta 2. Norte de La Adela.,Paleocauce,0,NULL,,0,"-38,8019490","-63,9985019",NULL,0,1
+161,411,1,Caldenal (fachinal),"Dpto Maracó. ? Ruta a Perú. Partiendo de ruta 15, entre ruta 15 y 35. Lote:17.",Pendiente de valle.,0,NULL,,0,"-37,5626200","-64,1427600",NULL,0,1
+162,410,1,Caldenal,"Ruta 2, al sur de ruta 15. Lote: 12.",Pendiente de valle,0,NULL,,0,"-37,4995600","-63,8455700",NULL,0,1
+163,408,1,Caldenal alto,Dpto Atreucó. Ruta norte de la Amenza?. Lote: 21. Sección: C.,Pendiente,0,NULL,,0,"-37,2507500","-63,8619800",NULL,0,1
+164,402,1,Rastrojo,"Dpto Guatrache. Ruta 1 al sureste de Alpachiri. Sección: III. Fracción: C. Lote: 5. Ecia. Loma Chica. Ruta Catrilo, Santa Teresita.",Plano,0,NULL,,0,"-37,3158100","-63,5127400",NULL,0,NULL
+165,409,1,"Arbustal denso, borde de salitral",Dpto Guatrache. Lote: 1. Sección: C. La Ameza?.,Pendiente,0,NULL,,0,"-37,2740700","-63,8438400",NULL,0,2
+166,378,2,Pastizal,"Dpto Utracan. Ruta 14, +o- a 40 km al NE del Huitru. Por ruta…. Al N de Quehue.",Plano,0,NULL,,0,"-37,0244000","-64,8736300",NULL,0,3
+167,371,1,"Olivillar, con mancha de pasto bajo.",Dpto Utracan. 10 km al Oeste de ruta 35. Lote: 20. Ruta 14.,Plano ondulado,0,NULL,,0,"-37,1189400","-64,4398100",NULL,0,NULL
+168,416,3,Pastizal bajo,"Dpto Hucal. Ruta 154 al Sur de ruta 17. A 5 km del cruce de la ruta 154 y ruta 17. sobre ruta 154, 16km al Sur de San Martin. Sección: IV. Fracción: B. Lote: ?",Plano,0,NULL,,0,"-38,1250300","-63,6365000",NULL,0,3
+169,433,2,Pajonal,Dpto Hucal. Ruta 2 super… ruta 17. Sección IV. Fracción: B. Lote: 20. Al SO de …?,Plano con leve ondulación,0,NULL,,0,"-38,0360500","-63,8965400",NULL,0,3
+170,434,1,Pastizal,Dpto Hucal. Ruta 2. Los Araucanos. Fracción: A. Lote: 25.,Plano,0,NULL,,0,"-38,1068900","-63,9734300",NULL,0,3
+171,324,1,Pajonal con algo de Calden,Dpto Loventue. Ruta 148. Lote: 7.,-,0,NULL,,0,"-36,9492400","-65,1976000",NULL,0,3
+172,325,1,Arbustal bajo con arbustos y renuevos,Dpto Loventue. Las Margaritas. Lote: 2.,-,0,NULL,,0,"-36,8239800","-65,4495600",NULL,0,2
+173,328,3,Pastizal de gramineas bajas,Dpto Loventue. Ea San Jorge. Ruta 5. Lote: 24.,Plano,0,NULL,,0,"-36,7166400","-65,2002100",NULL,0,3
+174,355,1,Pajonal con renovales,Dpto Toay. Ruta 5. A 15km al este de Arata. Lote:18.,Plano,0,NULL,,0,"-36,7057100","-64,8139500",NULL,0,3
+175,357,1,Pastizal con renuevos de Pca,Dpto Toay. Ruta 5. Lote 16.,Alto entre lomadas,0,NULL,,0,"-36,7065300","-64,5434700",NULL,0,3
+176,379,5,Pastizal,"Dpto Utracan. Ruta 148, 30 km mas o menos a ruta de acha. Entre Huitin y ruta 152. Lote: 1.",Plano a ondulado,0,NULL,,0,"-37,2723400","-65,0032200",NULL,0,3
+177,384,2,"Caldenal bajo, pastizal","Dpto Utracan. Ruta La Banderita, frente a Ea. Moreno Chico. Lote: 18.",Plano,0,NULL,,0,"-37,5513900","-64,7449100",NULL,0,1
+178,386,3,Planicie sucia,Dpto Lihuel Calel. A 8 km antes de Ea. Renacó?. Lote 4.,"Plano, con leve pendiente",0,NULL,,0,"-37,7284900","-64,6576500",NULL,0,NULL
+179,387,2,Pajonal,"Dpto Hucal. Pasando Ea. Renacó?, a 10 km de ésta. Lote: 1.",-,0,NULL,,0,"-37,7241700","-64,4719100",NULL,0,3
+180,391,2,Pastizal-Pajonal,"Dpto Hucal. Ruta 17, a mas o menos 200 m con cruce ruta 4 (al Este).","Pendiente suave, hacia un bajo al SE",0,NULL,,0,"-37,9444700","-64,2671600",NULL,0,3
+181,535,1,Pastizal fino con arbustos,Dpto Utracan. Las Acacias. Ruta 21.,Planicie,0,NULL,,0,"-37,2550700","-65,3271900",NULL,0,3
+182,536,1,Arbustal con pastizal,Dpto Utracan. Las Acacias. Ruta 21.,Pendiente,0,NULL,,0,"-37,3008500","-65,3531100",NULL,0,2
+183,548,1,Arbustal bajo con pastizal,Dpto Utracan. 4 km al norte de ruta 20. Hacia Los Cerritos. Fraccion: A. Lote: 21.,-,0,NULL,,0,"-37,2482600","-65,8421600",NULL,0,2
+184,549,6,Jarillal arbustal,"Dpto Utracan. A 6 km al norte de ruta 6, hacia Ea. Los Cerritos.",Cresta alta,0,NULL,,0,"-37,2296700","-65,8527900",NULL,0,2
+185,523,2,Arbustal de ladera,Dpto Lihuel Calel. Cerro El Choique. Lote: 3.,Alta pendiente,0,NULL,,0,"-38,6668900","-65,4222400",NULL,0,2
+186,525,2,Pastizal con jarilla,Dpto Curacó. Ruta 23. Lote: 9.,Leve bajo,0,NULL,,0,"-38,7125400","-65,4751900",NULL,0,3
+187,528,2,Arbustal bajo de espinillo y herbaceas,Dpto Curacó. Ruta 152 +o - 10 km al Oeste de Puelches. Lote: 25.,Alta pendiente. Exposición: NW,0,NULL,,0,"-38,1282600","-66,0101700",NULL,0,2
+188,646,3,"Arbustal de Monttea, Jarilla y Ciclolepis",Dpto Puelen. Ruta de 25 de mayo a La Reforma. 20 km al este de ruta 151 y 21.,-,0,NULL,,0,"-37,6559900","-67,5420400",NULL,0,2
+189,653,3,Arbustal abierto con pastizal,Dpto Puelen. Ruta 121?. A 120 km al Oeste de La Reforma. 17 km al Este del cruce de ruta 151 y 21.,Pendiente media,0,NULL,,0,"-37,6559900","-67,5856300",NULL,0,2
+190,656,3,Estepa arbustiva baja,Dpto Puelen. Ruta 21.,Pendiente alta,0,NULL,,0,"-37,5334400","-68,2442600",NULL,0,3
+191,664,3,Jarillal abierto con rodados y tapiz.,Dpto Puelen. Colonia chica.,Plano alto,0,NULL,,0,"-37,9365500","-67,7721200",NULL,0,2
+192,666,3,Arbustal de Atriplex con Jarilla,Dpto Puelen. Ruta a Casa de Pierda. A 37 km al SE de 25 de Mayo.,Plano-depresición,0,NULL,,0,"-37,9694100","-67,6059700",NULL,0,2
+193,667,3,Arbustal bajo abierto con rodados,Dpto Puelen. Ruta 23. 49 km al Oeste de Casa de Piedra,Plano,0,NULL,,0,"-38,0625300","-67,6479600",NULL,0,2
+194,668,3,Jarillal muy bajo de Lcu con rodados.,Dpto Puelen. Ruta 23. 28 km al NW de Casa de Piedra. 120 km al E de Duval. Lote: 22.,Plano,0,NULL,,0,"-38,1081800","-67,4945900",NULL,0,2
+195,671,3,Arbustal bajo abierto a muy abierto con sufrutice,"Dpto Curacó. Ruta 23, 19 km al SE de Casa de Pierda. Lote: entre 1 y 10.",Plano,0,NULL,,0,"-38,2451200","-66,9906500",NULL,0,2
+196,672,3,Arbustal de pendiente,Dpto Curacó. Ruta 23. Ea. Don Silvio. 22 km al NW de Duval.,Pendiente alta,0,NULL,,0,"-38,6565740","-66,5585798",NULL,0,2
+197,673,3,Arbustal muy ralo en cresta con rodados,"Dpto Curacó. Ruta 23, entrada a punto. Ea. Don Silvio.",Plano alto,0,NULL,,0,"-38,6285500","-66,5615800",NULL,0,2
+198,674,3,Jarillal abierto a denso,Dpto Curacó. Ea. Don Silvio. Entrada a punto. 22 km al NW de Duval.,Pendiente media,0,NULL,,0,"-38,6121100","-66,5652300",NULL,0,2
+199,675,3,Jarillal de Ldi Abierto,Dpto Curacó. 24 km al NW de Duval.,Plano,0,NULL,,0,"-38,5883800","-66,5615800",NULL,0,2
+200,676,3,Arbustal bajo denso de Lcu con rodados,Dpto Curacó. La providencia. Al Norte de Bajo la Escalera.,Plano alto,0,NULL,,0,"-38,5043900","-66,5013200",NULL,0,2
+201,680,3,Jarillal abiento de pendiente,Dpto Curacó. 18 km al SW de Puelches. Laguna La Amarga (pendiente Norte).,Pendiente alta,0,NULL,,0,"-38,1574800","-66,1325000",NULL,0,2
+202,681,3,Arbustal de Cher (Salitral),"Dpto Curacó. Sur de Puelches. +o- a 23 km al Sur de Puelches. Semi salino, pendiente alta de cauce de rio.",Pendiente media,0,NULL,,0,"-38,3163300","-65,8549700",NULL,0,2
+203,684,3,Cresta rocosa. Pastizal pedregoso con arbustal enano.,Localidad Choique Mahuida. Lote: 1.,Cresta-Sierra,0,NULL,,0,"-38,6175900","-65,6084800",NULL,0,3
+204,694,2,Jarillal abierto con gramineas y sufritice,Ruta 21. Sección: XXIV. Fracción: D. Lote: 24.,Bajo,0,NULL,12/01/77,NULL,"-37,6342000","-67,8162800",NULL,441,2
+205,694,2,Jarillal abierto con gramineas y sufritice,Ruta 21. Sección: XXIV. Fracción: D. Lote: 24.,Bajo,0,NULL,NULL,NULL,"-37,6342000","-67,8162800",NULL,441,2
+206,697,3,NULL,Colonia chica. Lote: 6.,plano,0,NULL,12/05/72,NULL,"-37,8575900","-67,7345500",NULL,441,4
+207,698,3,Arbustal de Psilla,Colonia chica. Lote: 6.,Terrazas,0,NULL,12/05/77,NULL,"-37,8666700","-67,7363700",NULL,441,2
+208,699,3,Cortadera-Totoral,25 de Mayo. Ruta 151. Lote: 1.,Depresión,0,NULL,13/05/76,NULL,"-37,7231900","-67,7636100",NULL,441,3
+209,701,2,Arbustal abierto,Ruta 21. Lote: 21.,Plano,0,NULL,13/05/76,NULL,"-37,6559900","-67,5983400",NULL,441,2
+210,702,2,Arbustal,Ruta 21. 26 km al Este. Lote: 23.,Plano,0,NULL,13/05/76,NULL,"-37,6632600","-67,4966400",NULL,441,2
+211,703,2,Pastizal arbustal,Ruta 21. Lote: 3.,Plano,0,NULL,13/05/76,NULL,"-37,6614400","-67,3495300",NULL,441,3
+212,706,2,Arbustal mezcla,"21 km y medio al sur de Puelen. Ruta 152, entrada a Anaca. Lote: 14.",Pendiente media,0,NULL,14/05/77,NULL,"-38,2195600","-66,1872800",NULL,460,2
+213,721,1,Jarillal bajo abierto,Sur de Puelen. 10 km al sur de Puelches.,Plano,0,NULL,27/05/76?,NULL,"-38,2232100","-65,8221100",NULL,460,2
+214,723,5,Jarillal bajo abierto de Larrea Cuneifolia,Picada Puelches. Ruta 23. 47 Km al Sur de Puelches.,Plano,0,NULL,27/05/77,NULL,"-38,4861486","-65,8625047",NULL,460,2
+215,625,3,Estepa,Camino a Jaguel del Monte?,Plano,1,NULL,NULL,NULL,"-36,2811700","-68,1486300",NULL,415,3
+216,626,1,-,Lote 22. 10 km al NE de .....,Plano,0,NULL,NULL,NULL,"-36,2666400","-68,1268400",NULL,415,2
+217,627,3,Estepa arbustiva baja,11 km al NE de .... Lote: 19.,NULL,0,NULL,NULL,NULL,"-36,2521100","-68,1104900",NULL,415,3
+218,628,3,Jarillal con tapiz abierto  de Pla,"Norte ruta 20, frente del Monte?. Lote: 19.",-,0,NULL,NULL,NULL,"-36,2048900","-68,0505600",NULL,415,2
+219,629,3,Arbustal de fabiana,Lote: 11.,-,0,NULL,03/07/77?,NULL,"-36,1504100","-68,1595300",NULL,415,2
+220,630,1,Arbustal bajo muy abierto,N de H2O Paullo. Pto Filomda. ???. Lote: 10.,Plano,1,NULL,03/12/76,NULL,"-36,0487100","-68,1722400",NULL,413,2
+221,631,3,Jarillal,Mendoza.,Pendiente media,0,NULL,03/12/76,NULL,NULL,NULL,NULL,NULL,2
+222,617,1,"Jarillal, arbustal",Ruta 20. 4 km al W de Algarrobo del Aguila.,Pendiente baja,0,NULL,01/12/76,NULL,"-36,3810600","-67,1860800",NULL,415,2
+223,639,3,Arbustal muy ralo?,Bajo al Norte de Pto los Pajaritos. Lote: 8. 15 km al Norte de Buta Ranquil.,Pendiente alta,0,NULL,05/12/76,NULL,"-36,9091997","-67,9421061",NULL,441,2
+224,640,3,Arbustal,Al Norte de Pto Los Pajaritos. Lote: 8.,-,0,NULL,05/12/76,NULL,"-36,9091997","-67,8665439",NULL,441,2
+225,642,3,"Atripex undulata, Salino.",Gran bajo Los Carrizales.,-,0,NULL,05/12/76,NULL,"-37,0570386","-67,8123363",NULL,441,4
+226,644,1,Pastizal con arbustos (de basalto),Este de Los Carrizales,-,0,NULL,05/12/76,NULL,"-37,1178169","-67,7614140",NULL,441,3
+227,655,3,Estepa arbustiva baja (jarillal abierto con sufrútice)),Limite con Mendoza. Mas o menos a 20 km al WN de Ayala.,Pendiente media,0,NULL,14/12/76,NULL,"-37,5555845","-68,2607812",NULL,441,3
+228,657,3,Estepa arbustiva baja muy abierta con sufrútice bajo,Limite con Mendoza. Mas o menos 16 km al W de Ayala. Basalto.,Pendiente media,0,NULL,14/12/76,NULL,"-37,5038408","-68,2583172",NULL,441,3
+229,658,3,Estepa arbustiva..,Mas o menos a 65 km al W de 25 de Mayo. Mas o menos a 50 km al NW de Ayala.,-,0,NULL,NULL,NULL,"-37,3682600","-68,2167300",NULL,441,3
+230,688,2,Estepa arbustiva baja,Pto El Toscalito. Lote: 7.,Pendiente media,0,NULL,11/01/77,NULL,"-37,3617800","-67,8580500",NULL,441,3
+231,695,3,Arbustal,2 leguas al W de Ayala (R21). Lote: 18.,Plano,0,NULL,12/01/77,NULL,"-37,5695700","-67,9810000",NULL,441,2
+232,696,2,Arbustal bajo con Speciosa,W de Pto El Equiaci?. Lote: 2.,Pendiente media,0,NULL,12/05/77,NULL,"-37,3286900","-68,0395000",NULL,441,2
+233,440,2,"Monte, fachinal.",Mas o menos 6 km al N de ... Lote: 20. Sección: B.,Pendiente,1,440,22/09/76,NULL,"-38,9026200","-63,8553100",NULL,474,NULL
+234,441,2,Jarillal abierto con ...,Ruta 154. Al N de Ansoategui?. Lote: 19. Sección: B.,Pendiente media,0,NULL,27/09/76,NULL,"-38,8823700","-63,8391200",NULL,474,2
+235,442,2,Cresta de Atriplex undulata,Ruta 154. 10 km al N de Anscalegui?,Cresta media,0,NULL,22/9,NULL,"-38,9025616","-63,8334151",NULL,474,3
+236,443,2,Pastizal con arboles,Ruta 154. Norte de Ansoategui?. Lote: 9. Sección:B,Planicie,0,NULL,22/9/76,NULL,"-38,7770800","-63,7513700",NULL,474,3
+237,449,2,Arbustal abierto de Pfl y Pna.,Interprovincial. Lote: 16. Sección: B.,Pendiente suave al norte.,0,NULL,23/09/76,NULL,"-38,8837200","-63,4044600",NULL,474,2
+238,450,2,Arbustal muy abierto,Ruta interprovincial. Lote: 15. Sección: C. 12 Km al Norte  de ruta 22.,Pendiente,0,NULL,23/09/76,NULL,"-38,8040800","-63,4017600",NULL,474,2
+239,451,2,Arbustal,Interprovincial. Lote: 15. Sección: B. A 20 Km al SE de Callo cuco??.,Pendiente suave.,0,NULL,23/09/76,NULL,"-38,7325300","-63,3977100",NULL,474,2
+240,454,2,"Caldenal bajo, abierto",Lote: 7. Sección: B. Mas o menos a 13 Km al Este de ruta 154. 17 km de ruta 22.,Plano,1,NULL,23/09/76,NULL,"-38,7727919","-63,6141206",NULL,474,1
+241,455,2,Arbustal abierto con pastizal,Limite con provincia de Buenos Aires. Lote: 16.,Plano,1,NULL,24/09/76,NULL,"-38,9390600","-63,4031100",NULL,474,2
+242,456,2,Pastizal de ...,Entre ruta 22 y Río Colorado. Lote:25.,NULL,0,NULL,24/09/76,NULL,"-39,0052100","-63,4625000",NULL,474,3
+243,457,2,Pastizal bajo,Camino a Rio Colorado. Lote: 25. Entre ruta 22 y Rio Colorado.,Bajo de area ondulada,0,NULL,24/09/76,NULL,"-39,0119600","-63,4463000",NULL,474,3
+244,458,3,Arbustal abierto bajo denso,Entre ruta 22 y Rio Colorado.,-,1,NULL,NULL,NULL,"-39,0565000","-63,4625000",NULL,474,2
+245,459,2,Medano pajonal,Entre ruta 22 y Rio Colorado. Lote:5.,NULL,0,NULL,24/09/76,NULL,"-39,0983500","-63,4584500",NULL,474,NULL
+246,461,2,Jarillal,"Al Norte del rio Colorado (no del pueblo sino del rio). Entre ruta 22 y el rio colorado. La Goleña, cerca de rio colorado.",Plano,1,NULL,24/09/76,NULL,"-39,2940800","-63,4436000",NULL,474,2
+247,462,2,Jarillal denso con arbustos,Camino a La Elba. 45 km al sur de ruta 22. Lote:15.,Alta pendiente,1,NULL,24/09/76,NULL,"-39,2738300","-63,4476500",NULL,474,2
+248,463,2,Arbustal denso sin .... con Acantholipia.,Al Norte de La Colorada. De ruta 22 al Sur. 20 km al Sur de Salitral La Jotava?. Lote: 15. Censo Atipico.,Bajo,0,NULL,24/09/76,NULL,"-39,2468300","-63,4530500",NULL,474,2
+249,464,2,"Jarillal abierto con bredemeyera, acantholipia y Pna.",Norte de Rio Colorado. Ruta 2 y 23. Lote: 17.,NULL,0,NULL,25/09/76,NULL,"-38,9390600","-64,0766900",NULL,474,2
+250,465,2,Bosque ... ralo con Jarilla y ...,Ruta 23 entrada a la izquierda?. Rumbo al Rio Colorado. Lote: 18.,Plano,0,NULL,25/09/76,NULL,"-38,9120700","-64,2008800",NULL,474,1
+251,466,2,Jarillal muy abierto con pastizal semi-denso,Sur ruta 23. NW de La Adela. Lote: 12.,Pendiente plana,0,NULL,25/09/76,NULL,"-38,8351200","-64,3021200",NULL,474,2
+252,467,2,Pastizal alto,"De ruta 23, entrada al Norte. Lote: 12. Area ex-quemada.",Pendiente baja,0,NULL,25/09/76,NULL,"-38,8540200","-64,3021200",NULL,474,3
+253,482,3,Jarillal pastizal con arbustos,Ruta 4. Mas o Menos a 6 Km al Norte de Pichi Mahuida. Lote: 12.,Plano con ondulaciones,0,NULL,06/10/76,NULL,"-38,8040800","-64,8717700",NULL,461,2
+254,485,1,Arbustal con pastizal,Ruta 3. Norte de La Adela (viejo cauce).,Pendiente,1,NULL,07/10/76,NULL,"-38,8044130","-64,0683147",NULL,474,2
+255,486,1,"Caldenal ralo, pastizal con arbustos y Larrea divaricata",Ruta 2. Norte de La Adela. Paleocauce.,NULL,0,NULL,07/10/76,NULL,"-38,8019490","-63,9985019",NULL,474,1
+256,495,1,Sufrutice,20 Km al Norte de Pichi Mahuida. Lote: 22.,Plano,1,NULL,08/10/76,NULL,"-38,5908000","-64,8447700",NULL,461,NULL
+257,516,3,Estepa arbustiva con Atriplex,Rumbo a Ea. El Recreo. Ruta 4 al Oeste. Lote: 9.,-,0,NULL,26/10/76,NULL,"-38,7095800","-64,8704200",NULL,461,3
+258,517,2,NULL,Lote: 25. Fracción: D. Sección: X.,Pendiente,0,NULL,20/10/76,NULL,"-38,5934900","-65,1228500",NULL,461,4
+259,304,1,Pajonal de Pappophorum,Ea. San Jose.,-,0,NULL,03/06/76,NULL,"-36,6654500","-65,7174500",NULL,414,3
+260,305,1,Caldenal,San José.,_,0,NULL,03/06/76,NULL,"-36,6522900","-65,7086800",NULL,414,1
+261,306,3,Pajonal medanoso de Hyalis Argentea,Salida San Jo. sé. Lote: 8,Cresta de medano,0,NULL,03/06/76,NULL,"-36,6768600","-65,7745000",NULL,414,3
+262,311,1,Pajonal de Evi,Paitahue,Cresta de medano-Ondulado,0,NULL,04/06/76,NULL,"-36,4346500","-65,4897300",NULL,414,3
+263,318,1,Sufrutice con arbustos,El Pico. Lote: 21.,Plano bajo,0,NULL,10/06/76,NULL,"-37,1825000","-65,5544000",NULL,444,NULL
+264,322,1,Cortaderal con Disthclis y juncosx,Villa... Lote: 18.,_,0,NULL,10/06/76,NULL,"-37,1280700","-65,3254600",NULL,444,3
+265,327,3,Pastizal de Disthclis con cortaderas y juncos,San Eduardo. Lote: 24.,Hondonada,0,NULL,11/06/76,NULL,"-36,7766300","-65,6314900",NULL,414,3
+266,332,4,Pajonal de Stipa Gyneriodes con sufrútice,34 Km al Sur de La Maruja. Sobre ruta 6. Lote: 1.,Ondulado,0,NULL,14/07/74,NULL,"-35,9829900","-64,9657800",NULL,407,3
+267,333,4,Caldenal abierto,"Ingeniero Foster. Al SW de Foster, mas o menos 1500 m sobre ruta 13. Lote: 9.",Plano,0,NULL,14/07/76,NULL,NULL,NULL,NULL,380,1
+268,336,4,"Caldenal, renoval.","Ruta 6, entre la Maruja y Chamaico. A mas o menos 13 km al sur de ruta 188, sobre ruta 6. Lote: 12.",-,0,NULL,14/07/76,NULL,"-35,2084900","-64,9287400",NULL,380,1
+269,335,4,"Caldenal, Pajonal.",A 22 Km al Sur de ruta 188. Sobre ruta 6. Lote: 19. Ruta 8.,Plano,0,NULL,14/07/76,NULL,"-35,2795500","-64,9301400",NULL,380,1
+270,337,4,"Pajonal, Caldenal.","Ruta 6, entre la Maruja y Chamaicó. A mas o menos 13 km  al sur de ruta 188, sobre ruta 6. Lote: 12.",Plano,0,NULL,14/07/76,NULL,"-35,2266100","-64,9301400",NULL,380,3
+271,342,4,"Caldenal, pajonal.",Entre Rucanelo y E. Mitre. Ruta 143 a 3 km al SW de Rucanelo. Lote: 8.,Plano alto,0,NULL,14/07/76,NULL,"-36,0012100","-64,8346000",NULL,407,1
+272,345,4,"Caldenal, renoval.",4 Km al Norte de Lobocó. Las Vizcacheras.,-,0,NULL,16/07/76,NULL,"-35,8466200","-64,9580000",NULL,NULL,1
+273,347,1,Caldenal,Ruta 6. A mas o menos 2500 mts al Norte de cruce de las rutas 8 y 6. AL Oeste de Caleufú. Lote: 10.,NULL,1,NULL,11/08/76,NULL,"-35,5832900","-64,9412800",NULL,380,1
+274,348,1,Pajonal abierto con cesped de aguadas,Ruta 6. Lote: 22. El censos dice que no sirve y que no fue utilizado. No le da un valor de abundancia-cobertura a las especies.,Plano ondulado,1,NULL,08/11/76,NULL,"-35,4105200","-64,9315300",NULL,380,3
+275,0348 bis,1,Pajonal,Ruta 6. El censos dice que no sirve y que no se utilizó.,-,0,NULL,11/08/76,NULL,NULL,NULL,NULL,380,3
+276,349,1,"Caldenal, pastizal",Ruta 6. Lote: 19.,Depresión suave,1,NULL,11/08/76,NULL,"-35,3422500","-64,9315300",NULL,380,1
+277,707,3,Pradera baja,Ruta 148. Lote: 9. Area de Basalto.,Depresión,0,NULL,19/01/77,NULL,"-36,4260610","-65,3908719",NULL,414,NULL
+278,708,3,Pajonal de Erodium. Médano.,Ruta 148. Lote: 9.,Bajo,0,NULL,19/01/77,NULL,"-36,4155195","-65,3803304",NULL,414,3
+279,709,3,Bosque abierto,Ruta 148. Zonación. Lote:9.,-,0,NULL,19/01/77,NULL,"-36,3944365","-65,3912623",NULL,414,1
+280,711,3,Arbustal pastizalcon arboles,La Marcela.,Pendiente baja,0,NULL,20/01/77,NULL,"-36,1888400","-65,6580600",NULL,414,2
+281,712,3,Arbustal denso de pendiente,Al este de La Marcela.,Pendiente alta,0,NULL,20/01/77,NULL,"-36,1902800","-65,7092200",NULL,414,2
+282,68,3,Zampal abierto,Ruta 20. Al NW de Puesto Urquiza.,Plano aluvial,0,NULL,25/03/76,NULL,"-36,8946400","-66,7248900",NULL,440,NULL
+283,69,3,Zampal,Ruta 20.,-,0,NULL,25/03/76,NULL,"-36,8542600","-66,7493300",NULL,440,NULL
+284,75,3,Zampal,Ruta 143. Picada clausurada.,Plano aluvial,0,NULL,26/03/76,NULL,"-37,4634800","-66,0055800",NULL,413,NULL
+285,76,3,"Zampal, piquillinal",Ruta 143. Frente a alambrado.,Plano,0,NULL,26/03/76,NULL,"-36,1776500","-66,9990100",NULL,413,NULL
+286,77,3,Pajonal con arbustos,Ruta 143.,"Plano ondulado, media pendiente",0,NULL,26/03/76,NULL,"-37,5615500","-66,5994600",NULL,413,3
+287,547,1,Arbustal bajo,"16 km al sur de ruta 20, en picada a La Reforma. Lote: 1.",Plano,0,NULL,28/10/76,NULL,"-37,8742435","-65,5319147",NULL,440,2
+288,559,2,Arbustal bajo halófilo,Ruta 20. 7 km al norte de Puesto Urquiza. Lote: 7.,Plano salitral,0,NULL,09/11/76,NULL,"-36,8999600","-66,7397700",NULL,440,2
+289,560,2,Arbustal abierto con tapiz,Ruta 20. 15 km al norte de Puesto Urquiza. 14 km al sur paso de algarrobos.,Bajo,0,NULL,09/11/76,NULL,"-36,8202500","-66,7822700",NULL,440,2
+290,561,2,Algarrobal,Ruta 15. a 15 km mas o menos de Santa Isabel.,Pendiente,0,NULL,10/11/76,NULL,"-36,2557500","-66,9481600",NULL,413,1
+291,562,2,Peladal con arbustos en monticulos,"A 6 km, mas o menos, de Santa Isabel. Ruta 151. Lote: 22.","Plano, salitral",0,NULL,10/11/76,NULL,"-36,2728187","-66,9660462",NULL,413,NULL
+292,563,2,Bosque bajo,Ruta 154. A 6 km al SW de Santa Isabel. Lote: 22.,-,0,NULL,10/11/76,NULL,"-36,2734043","-66,9521860",NULL,413,1
+293,564,3,Pastizal en cauce antiguo,Ruta 151. 13 km al sur de Santa Isabel. Lote: 21.,Bajo,0,NULL,10/11/76,NULL,"-36,3280640","-67,0115308",NULL,413,3
+294,565,3,Arbustal muy bajo abierto,Ruta 151. 13 km al SW de Santa Isabel. Lote: 22.,Plano,1,NULL,10/11/76,NULL,"-36,3280640","-66,9990372",NULL,413,2
+295,566,2,Arbustal bajo halófilo,Ruta 151. A 15 km al SW de Santa Isabel.,Plano,0,NULL,10/11/76,NULL,"-36,2957000","-66,9717700",NULL,413,2
+296,567,2,Sufruticetum Heterostachys ritteriana,A mas o menos 18 km al norte de paso de los algarrobos. Ruta 20. A 23 km al SW de ruta 151.,-,1,NULL,10/11/76,NULL,"-36,5460192","-66,9758262",NULL,413,NULL
+297,568,2,Estepa,"Ruta 20. A 23 km al SW de ruta 151, y a 18 km al norte de paso de los algarrobos.",-,0,NULL,10/11/76,NULL,"-36,5502795","-66,9404971",NULL,413,3
+298,569,2,NULL,19 km al norte de paso los algarrobos. 14 km al sur de cruce de ruta 151.,Plano,0,NULL,10/11/76,NULL,"-36,5017000","-66,9859200",NULL,413,4
+299,570,2,Arbustal abierto de cyclolepis y suelo desnudo,7 km al Oeste de ruta 20. A 15 km del cruce de rutas 20 y 151. Al oeste de el Jume. Lote: 10.,Plano,1,NULL,11/11/76,NULL,"-36,5263500","-67,0680300",NULL,413,2
+300,572,2,Bosque ralo de algarrobo y atriplex lampa,4 km al oeste de paso de los algarrobos,Plano,1,NULL,11/11/76,NULL,"-36,7023200","-66,9389700",NULL,413,1
+301,573,2,Pajonal denso de Stipa gynerioides,5 km al NE de Arbol de la Esperanza. lote: 9.,-,0,NULL,11/11/76,NULL,"-36,8882700","-66,9168400",NULL,440,3
+302,574,3,Arbustal con cycloleps,"Ruta a cochico, 10 km al oeste de Arbol de la Esperanza y a 7 km al este de puesto La Primevera. Lote: 9.",-,0,NULL,11/11/76,NULL,"-36,8776400","-66,9341100",NULL,440,2
+303,575,2,Estepa halofila,"Camino a Cochico, 6 km al SW de puesto La Primavera.","Plano, depresión",0,NULL,11/11/76,NULL,"-36,9513300","-67,0880000",NULL,440,3
+304,579,2,Arbustal semihalófilo,Ruta La Reforma a Puelches. 35 km al SE de La Reforma. Lote: 7.,Pendiente media,0,NULL,12/11/76,NULL,"-37,8230800","-66,1508700",NULL,460,2
+305,581,1,Arbustal abierto bajo,74 km al NW de Puelen. 24 km al NW de puesto Rodriguez. Lote: 15.,Pendiente,0,NULL,17/11/76,NULL,"-37,9347200","-65,9681700",NULL,460,2
+306,582,1,Cauce,20 km al NW de Puelches. Lote: 20. No especifica departamento.,Pendiente media,0,NULL,17/11/76,NULL,"-37,9584600","-65,9426100",NULL,NULL,NULL
+307,583,1,NULL,20 km al NW de Puelches. Cauce Río Salado. Picada a Puelches.,"Valle, depresión",0,NULL,17/11/76,NULL,"-37,9694100","-65,9426100",NULL,460,4
+308,584,1,Cyclolepis,20 km al NW de Puelches. Lote: 20.,Cresta,0,NULL,17/11/76,NULL,"-37,9803700","-65,9389600",NULL,460,NULL
+309,585,1,Sufruticetum denso,10 km al NW de Puelches. Lote: 21.,"Bajo, plano",0,NULL,17/11/76,NULL,"-38,0611000","-65,8662800",NULL,460,NULL
+310,589,3,Arbustal bajo de halófitas,"SW de Lihuel Calel, sobre río Salado.",Plano,0,NULL,18/11/76,NULL,"-38,0922000","-65,7608800",NULL,460,2
+311,682,3,Jarillal abierto con tapiz y arbustos,En Río Negro.  ....,Plano alto,0,NULL,18/11/76,NULL,NULL,NULL,NULL,NULL,2
+312,691,3,Pastizal bajo halófilo,Lote: 10.,Salitral,0,NULL,11/01/76,NULL,"-37,3880336","-67,6221990",NULL,441,3
+313,692,2,Pradera halófila,Lote: 10.,-,0,NULL,11/01/76,NULL,"-37,3896763","-67,5704554",NULL,441,NULL
+314,722,5,Arbustal abierto halófilo,"Picada Puelches, ruta 23. Cauce río Salado.",Bajo,0,NULL,27/07/77,NULL,"-38,3218000","-65,8202800",NULL,460,2
+315,478,3,Bosue alto en linea de drenaje con acumulación de suelo-pastizal,Ruta 4. Lote: 10.,NULL,0,NULL,../10/76,NULL,"-38,3125000","-64,4866000",NULL,474,1
+316,501,2,Pastizal con arbustos abiertos,Entre Estancia de La Torre y picada de Lihuel Calel. Lote: 23.,Plano alto,0,NULL,12/10/76,NULL,"-38,0775200","-64,8468500",NULL,461,3
+317,504,2,-,"Picada a Lihuel Calel, cruce de Cuchillo-Co. Fracción: A. Lote: 19.",Pendiente alta,1,NULL,13/10/76,NULL,"-38,0490100","-65,4602400",NULL,461,2
+318,507,2,Jarillal pastizal,Ruta 152. Al sur de Los Tajamares. 25 km al sur de Carancho.,Cresta,1,NULL,19/10/76,NULL,"-37,5902700","-65,1656400",NULL,444,2
+319,508,2,"Jarillal, arbustal con acantholipia.",Sur San Joaquin. Lote: 9.,Plano con bajos,0,NULL,19/10/76,NULL,"-38,2834600","-65,4551100",NULL,461,2
+320,509,5,Larrea divaricata,San Martín. Lote: 9.,Plano,0,NULL,19/10/76,NULL,"-38,3072000","-65,4697200",NULL,461,NULL
+321,509,5,Larrea divaricata,San Martín. Lote: 9.,Plano,0,NULL,19/10/76,NULL,"-38,3072000","-65,4697200",NULL,461,NULL
+322,513,2,Pastizal bajo con arbustos,...... del Guanaco.,Plano,0,NULL,19/10/76,NULL,"-38,1751400","-65,5129400",NULL,461,3
+323,515,2,"Pastizal con arbustos, jarillal muy abierto",Ruta picada a Lihuel. Lote: 20. Sección: X. No especifica departamento.,Plano,0,NULL,20/10/76,NULL,"-38,0464200","-65,0541900",NULL,NULL,3
+324,529,3,Jarillal abierto con tomillo,2 km al norte de puesto 17... Lote: 14.,Plano,0,NULL,22/10/76,NULL,"-37,9539800","-65,2485800",NULL,461,2
+325,530,1,"Jarillal, pajonal, pastizal","A 10 km al NE de La Ranzul, y a 1 km y medio del puesto El Alan. Lote: 14. Mitad de legua.",Leve pendiente,1,NULL,22/10/76,NULL,"-37,8857300","-65,2615300",NULL,461,2
+326,531,3,Salitral,"Lote: 7. No especifica departamento, ni ningun otro dato. El censo dice que no sirve.",-,1,NULL,22/10/76,NULL,"-37,8192100","-65,2477100",NULL,NULL,NULL
+327,539,1,Pastizal,Al oeste de ruta 152. Lote: 24.,-,0,NULL,27/10/76,NULL,"-37,6343300","-65,3107800",NULL,444,3
+328,541,1,"Arbustal, pastizal",6 km y medio al este de La Agostina. Sección: IX. Fracción: D. Lote: 18.,-,1,NULL,27/10/76,NULL,"-37,5894000","-65,3729800",NULL,444,2
+329,542,1,"Arbustal denso, peladales",A 25 km al oeste de ruta 152. A 4 km al oeste de Estancia La Justina. Lote: 22.,-,1,NULL,27/10/76,NULL,"-37,5902700","-65,5112100",NULL,444,2
+330,550,1,Pastizal alto,Area quemada.,Pendiente alta,0,NULL,14/11/76,NULL,"-38,0127200","-65,5354000",NULL,461,3
+331,551,3,Arbustal con algarrobo y pastizal,"Sierra Lihuel Calel, cañadon. Camino a Ruines. El censo dice no sirve.","Bajo, depresión",0,NULL,11/11/76,NULL,"-38,0118600","-65,5570000",NULL,461,2
+332,552,1,Pastizal de ladera pedregosa,Parque Lihuel Calel. Camino a las Ruinas.,Pendiente alta,0,NULL,04/11/76,NULL,"-38,0127200","-65,5449000",NULL,461,3
+333,553,1,Arbustal de sufrutice,Estancia Los Ranqueles.,-,0,NULL,04/11/76,NULL,"-37,9453400","-65,3626100",NULL,461,2
+334,554,1,"Pastizal, abustal pedregoso",Frente al Motel.,Pendiente media,0,NULL,05/11/76,NULL,"-38,0360500","-65,5431700",NULL,461,3
+335,555,1,Area pedregosa con pastizal bajo y herbáceas,"Ea Los Ranqueles, rumbo a La Astuariana. Sierra chica.","Plano, cresta",0,NULL,05/11/76,NULL,NULL,NULL,NULL,444,3
+336,556,3,Pastizal de ladera pedregosa,"Sierra chica, rumbo a La Asturiana.",Pendiente alta,0,NULL,05/11/76,NULL,NULL,NULL,NULL,461,3
+337,586,1,Arbustal ralo con sufrutice ralo y pastizal muy claro,Al sur de ruta 152. A 4 km al norte de Puelches.,Pendiente alta,0,NULL,17/11/76,NULL,"-38,1665000","-65,8395000",NULL,460,2
+338,713,5,Zonación La Pilañesa,La Pilañesa. Lote: 11.,"Salitral, depresión",0,NULL,26/07/77,NULL,NULL,NULL,NULL,461,NULL
+339,714,5,Estepa arbustiva muy rala,La Pilañesa.,-,0,NULL,26/07/77,NULL,NULL,NULL,NULL,461,3
+340,715,5,Zonación,La Pilañesa.,"Pendiente baja, salatrial.",0,NULL,26/07/77,NULL,NULL,NULL,NULL,461,NULL
+341,716,5,Jarillal denso a abierto con arbustal bajo,La Pilañesa.,Pendiente baja,0,NULL,26/07/77,NULL,NULL,NULL,NULL,461,2
+342,717,5,Algarrobal alto abierto con arbustal,NULL,Bajo,0,NULL,26/07/77,NULL,NULL,NULL,NULL,NULL,1
+343,718,2,Estepa halófila arbustiva,Laguna La Astuariana.,Salitral,0,NULL,27/01/77,NULL,"-37,7872400","-65,3919900",NULL,461,3
+344,719,2,Arbustal denso halófilo,Curva externa sobre de ruta La Asturiana.,-,0,NULL,27/01/77,NULL,"-37,8062500","-65,4429600",NULL,461,2
+345,720,5,Jarillal,La Asturiana.,-,0,NULL,27/01/77,NULL,NULL,NULL,NULL,461,2
+346,0510 o 0511,2,Pastizal con Larrea divaricata y acantholipia,Estancia San Martín.,Bajo,1,NULL,19/10/76,NULL,NULL,NULL,NULL,461,3
+347,522,3,Jarillal mediano,a 40 km al este de la Japonesa. Lote: 6.,Planicie junto al rio Colorado,0,NULL,21/10/76,NULL,"-38,7417500","-65,9627000",NULL,460,2
+348,577,2,Arbustal bajo xenofilo con Larrea divaricata,A 18 km al este de ruta 151. 21 km al NE de Puelen. Lote: 22.,-,0,NULL,11/11/76,NULL,"-37,2310200","-67,4421500",NULL,441,2
+349,578,2,Pastizal con arbustos muy bajos abierto y Larrea divaricata abierto,Ruta 21. 33 km al oeste de La Reforma. Lote: 16.,Plano,0,NULL,12/11/76,NULL,"-37,5579200","-66,5849300",NULL,440,3
+350,647,1,"Jarillal, quemado.",10 km al norte de ruta 21. Al lado de El Fresco. 46 km al oeste de La Reforma. Lote: 17.,-,0,NULL,06/12/76,NULL,"-37,5888000","-67,2768800",NULL,440,2
+351,660,3,Arbustal abierto con rodado de arena,24 km al este de 25 de Mayo.,-,0,NULL,15/12/76,NULL,"-37,7940200","-67,4312600",NULL,441,2
+352,661,3,Jarillal abierto con tapiz,Ruta 25 de Mayo. Mas o menos a 36 km al este de 25 de Mayo.,-,0,NULL,15/12/76,NULL,"-37,7976500","-67,2877800",NULL,441,2
+353,662,3,Pastizal (quemado de jarillal abierto),Mas o menos a 44 km al oeste de 25 de Mayo. Picada al oeste de YPF.,Plano alto,0,NULL,15/12/76,NULL,"-37,7922000","-67,1860800",NULL,441,3
+354,663,3,Pastizal (exquemado de jarilla),Mas o menos a 26 km al NE  de 25 de Mayo.,Plano,0,NULL,15/12/76,NULL,"-37,7395400","-67,4421500",NULL,441,3
+355,677,3,Pastizal con Larrea divaricata,Norte de La Providencia.,Plano alto,0,NULL,16/12/76,NULL,"-38,4112700","-66,5122800",NULL,460,3
+356,678,3,Jarillal abierto con pastizal,Providence al NE.,Plano alto,0,NULL,16/12/76,NULL,"-38,3984900","-66,4337700",NULL,460,2
+357,693,2,Arbustal bajo,Puesto El Quemado. Lote: 16.,Plano,0,NULL,11/01/77,NULL,"-37,4780100","-67,7109400",NULL,441,2
+358,704,2,Jarillal con Atriplex Lampa,Puesto Los 8 Hermanos al SE. Lote: 15. Sección: B.,Plano,0,NULL,13/01/76,NULL,NULL,NULL,NULL,460,2
+359,705,3,Jarillal con tapiz,15 km al NE del puesto el 21. Mas o menos a 35 km al NW de Puelches. Lote: 24.,Plano,0,NULL,13/07/76,NULL,NULL,NULL,NULL,460,2
+360,309,1,Bosque cerrado con pajonal denso,La Holanda.,Bajo plano,0,NULL,03/06/76,NULL,"-36,5883000","-65,3280300",NULL,414,1
+361,310,3,Estepa arbustiva baja abierta,La Holanda.,-,0,NULL,03/06/76,NULL,"-36,6285400","-65,2885200",NULL,414,3
+362,329,1,"Pajonal con prosopis caldenia, flexuosa y arbustos",Mari Huincul. Lote: 15.,Bajo,0,NULL,10/06/76,NULL,"-36,5854600","-65,0848200",NULL,414,3
+363,351,1,Pajonal de Evi con arbustos,"Estancia La Florida, sobre ruta lateral a Santa Rosa. Camino a Santa Rosa. Lote: 1.",Alto,0,NULL,12/08/76,NULL,"-36,3935500","-65,0010100",NULL,422,3
+364,377,1,Caldenal alto,"Ruta a Cereales, hacia la derecha, bajando a lagunas. Frente a Athapualpa. Estancia La Victoria. Lote: 5.","Bajo, o pendiente muy suave",0,NULL,20/08/76,NULL,"-36,8232500","-64,0473200",NULL,442,1
+365,7,1,Estepa arbustiva,Entre Chacharramendi e Inta.,"Amplio bajo, pendiente suave",0,NULL,21/10/75,NULL,"-36,3479600","-66,1411500",NULL,444,3
+366,142,3,Arbustal bajo denso,60 km al este de Limay Mahuida,-,0,NULL,06/09/1975,NULL,"-37,2402900","-66,0653300",NULL,440,2
+367,168,3,Arbustal bajo,"29 km al sur de Lihuel Calel, ruta 152.",-,0,NULL,12/11/1975,NULL,"-38,1570000","-65,8248100",NULL,460,2
+368,358,1,Cultivo,"A 4 km al Sur de la ruta 5, frente a Catriló. Lote: 6.",Plano con suaves ondulaciones o bajos sin salida,0,NULL,18/08/76,NULL,"-36,4646700","-63,4405000",NULL,427,NULL
+369,360,1,Campo natural,"La Elvira, cerca de Fanowsky ?¿. Lote: 14.",Plano con ondulaciones,0,NULL,18/08/76,NULL,"-36,6222900","-63,5153600",NULL,427,NULL
+370,360,1,Campo natural,"La Elvira, cerca de Fanowsky ?¿. Lote: 14.",Plano con ondulaciones,0,NULL,18/08/76,NULL,"-36,6222900","-63,5153600",NULL,427,NULL
+371,362,3,Campo natural,Norte de HIdalgo. Lote: 16.,Area plana,0,NULL,19/08/76,NULL,"-37,1017100","-63,5035400",NULL,442,NULL
+372,733,5,Estepa arbustiva muy baja,13 km al Sur de Uriburu. Ea. El carmen.,Pendiente baja-salitral,0,NULL,02/02/77,NULL,"-36,6538100","-63,8595000",NULL,427,NULL
+373,734,3,Pradera semihalófila de distichlis spicata y hordeum,13 km al Sur de Uriburu. Ea. El Carmen.,Bajo,0,NULL,02/02/77,NULL,"-36,6669400","-63,8608100",NULL,427,NULL
+374,365,1,Pastizal salino,"Anchorena, Ruta N° 25. Lote: 6.",Bajo algo salino,0,NULL,19/08/76,NULL,"-36,9611700","-63,4759600",NULL,442,NULL
+375,731,5,Estepa halofita,Laguna el ojo de agua. A 35 km al NE de Santa Rosa.,Bajo salitral,0,NULL,02/02/77,NULL,"-36,4042500","-63,9133500",NULL,427,NULL
+376,732,5,Pradera baja semihalólila,Laguna el ojo de agua.,"Cresta, lomada arenosa",0,NULL,02/02/77,NULL,"-36,4147600","-63,9186000",NULL,427,NULL
+377,735,5,Pastizal mediano de Stipa papposa,A 13 km al Sur de Uriburu. Ea. EL Carmen.,Pendiente media,0,NULL,02/02/77,NULL,"-36,6787700","-63,8555600",NULL,427,NULL
+378,1,3,Caldenal pastizal arbustivo,10 km al oeste de Telen,Loma-Alta pendiente,0,NULL,15-09-1975,22,"-36,2890500","-65,5833800",NULL,414,NULL
+379,3,3,Caldenal arbustal pelado,La Guadalosa,Plano en el bajo de origen aluvial por escurrimiento,0,NULL,NULL,NULL,"-36,3556300","-65,7684900",NULL,414,NULL
+380,0004 o 0005,3,Caldenal pastizal abierto sabana aridica,E D MALLAL,Ondulado arenoso,0,NULL,15-09-1975,NULL,NULL,NULL,NULL,414,NULL
+381,0005 o 0003,3,Caldenal renoval con pasto,Ea. Argentina,Lomada,0,NULL,15-09-75,NULL,NULL,NULL,NULL,414,NULL
+385,10,3,Estepa arbustiva Jarillal algarrobal,Plano aluvial rio Atuel. Ruta 143 a Carmensa,Plano aluvial,0,NULL,15-09-75,NULL,"-36,1558600","-67,0571300",NULL,NULL,NULL
+386,12,3,jarillal bajo abierto con especies anuales,5 km al W de Algarrobo del Aguila,pendiente,0,NULL,16-09-1975,NULL,"-36,3828800","-67,1552000",NULL,415,NULL
+387,13,3,jarillal bajo abierto con pastizal de anuales,10Km al W de Algarrobo del Aguila,NULL,0,NULL,16-09-1975,NULL,"-36,3883300","-67,2296600",NULL,415,NULL
+388,0014 bis,3,Estepa arbustiva de Larrea divaricata,al oeste de la barda de Algarrobo del Aguila.,plano bajo,0,NULL,25-10-1975,NULL,"-36,3860423","-67,3701372",NULL,415,NULL
+390,61,3,Caldenal arbustal denso,Ceriola,NULL,0,NULL,16-10-1975,NULL,"-35,9987396","-64,7433501",NULL,407,NULL
+391,65,3,Caldenal arbustal pastizal,Ruta 148 y Ruta a Telen,NULL,0,NULL,17-10-1975,NULL,"-36,2444200","-65,3924200",NULL,414,NULL
+392,68,3,NULL,NULL,NULL,0,NULL,NULL,NULL,"-36,8946400","-66,7248900",NULL,NULL,NULL
+393,43,3,Caldenal muy abierto (sin censo original),Entre ruta 10 y 14 . Al SE de Emilio Mitre,NULL,0,NULL,NULL,NULL,"-36,5452200","-66,1071000",NULL,413,NULL
+394,30,3,Caldenal abierto con arbustal (sin censo original),Sobre ruta 10. Limite Chalileo Loventué,NULL,0,NULL,NULL,NULL,"-36,3416200","-65,9956500",NULL,413,NULL
+395,42,3,Bosque algarrobal (sin censo original),Entre ruta 10 y 14.Al este del depto Chalileo,NULL,0,NULL,NULL,NULL,"-36,4443000","-66,0711200",NULL,413,NULL
+1393,2,3,Caldenal arbustal,La Guadalosa.,Plano en el bajo,0,NULL,NULL,NULL,"-36,3124700","-65,6404500",NULL,414,NULL
+1394,212,3,NULL,Planicie divisoria de Maracó Chico a Mara,NULL,0,NULL,NULL,NULL,"-37,7044138","-64,5941097",NULL,NULL,NULL
