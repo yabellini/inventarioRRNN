@@ -45,14 +45,32 @@
 #' @source <https://recursosnaturales.lapampa.edu.ar/index2.html>
 "inventario_vegetal"
 
-
+#' Informacion sobre la formacion relevada en los censos.
+#'
+#' Los datos corresponden a más de 300 censos de vegetación
+#' realizados durante 1975 a 1979, utilizados para la caracterización
+#' de los recursos naturales de la Provincia de La Pampa.
+#'
+#' @format ## `formacion`
+#' Conjunto de datos con 907 filas y 3 columnas:
+#' \describe{
+#'   \item{idInventario}{Identificador único}
 #'   \item{formacion}{clasificación de la vegetación según sea graminosa o leñosa}
 #'   \item{alturaCoberturaFormacion}{Cerrado, Muy Denso, Denso, Abierto, Muy Abierto, Ralo}
 #' }
 #' @source <https://recursosnaturales.lapampa.edu.ar/index2.html>
 "formacion"
 
-
+#' Informacion sobre la fisonomia relevada en los censos.
+#'
+#' Los datos corresponden a más de 300 censos de vegetación
+#' realizados durante 1975 a 1979, utilizados para la caracterización
+#' de los recursos naturales de la Provincia de La Pampa.
+#'
+#' @format ## `fisonomia`
+#' Conjunto de datos con 338 filas y 4 columnas:
+#' \describe{
+#'   \item{idInventario}{Identificador único}
 #'   \item{fisonomia}{aspecto y rasgos (fisonómicos) y físicos visualmente evidenciables de las comunidades vegetales}
 #'   \item{alturaCoberturaFisonomia}{Cerrado, Muy Denso, Denso, Abierto, Muy Abierto, Ralo}
 #'   \item{Observacion}{Notas sobre el censo}
@@ -73,3 +91,15 @@
 #'   \item{geomTDepartamento}{polignos}
 #' }
 "departamentos"
+
+#' Localizacion geografica de los censos
+#'
+#' Latitud y longitud con la ubicacion geografica de los censos de campo.
+#'
+#'
+#' @format :
+#' \describe{
+#'   \item{censo}{Identificado unico del censo}
+#'   \item{geometry}{localizacion de los censos en formato de puntos}
+#' }
+"localizacion_censos"
