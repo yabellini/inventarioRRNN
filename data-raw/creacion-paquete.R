@@ -1,6 +1,11 @@
 
-usethis::use_data(inventario)
-usethis::use_data(departamentos)
+usethis::use_data(inventario_flora)
+usethis::use_data(inventario_vegetal)
+usethis::use_data(formacion)
+usethis::use_data(fisonomia)
+usethis::use_data(localizacion_censos)
+
+usethis::use_data(departamentos, overwrite = TRUE)
 
 
 # > usethis::use_data(inventario_data)

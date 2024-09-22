@@ -15,9 +15,9 @@ altura_cobertura <- read_csv("data-raw/Censos de vegetacion - AlturaCobertura.cs
 cobertura <- read_csv("data-raw/Censos de vegetacion - Cobertura.csv", na = c("","NULL"))
 especies <- read_csv("data-raw/Censos de vegetacion - Especies.csv", na = c("","NULL"))
 estrato <- read_csv("data-raw/Censos de vegetacion - Estrato.csv", na = c("","NULL"))
-fisonomia <- read_csv("data-raw/Censos de vegetacion - Fisonomia.csv", na = c("","NULL"))
+fisonomia_base <- read_csv("data-raw/Censos de vegetacion - Fisonomia.csv", na = c("","NULL"))
 fisonomia_cobertura <- read_csv("data-raw/Censos de vegetacion - FisonomiaCobertura.csv", na = c("","NULL"))
-formacion <- read_csv("data-raw/Censos de vegetacion - Formacion.csv", na = c("","NULL"))
+formacion_base <- read_csv("data-raw/Censos de vegetacion - Formacion.csv", na = c("","NULL"))
 formacion_altura_cobertura <- read_csv("data-raw/Censos de vegetacion - FormacionAlturaCobertura.csv", na = c("","NULL"))
 inventario_flora <- read_csv("data-raw/Censos de vegetacion - InventarioFlora.csv", na = c("","NULL"))
 inventario_vegetal <- read_csv("data-raw/Censos de vegetacion - InventarioVegetal.csv", na = c("","NULL"))
@@ -46,7 +46,7 @@ observadores <- read_csv("data-raw/Censos de vegetacion - Observadores.csv", na 
 auxiliar_geo <- read_csv("data-raw/Censos de vegetacion - AuxiliarGEO.csv",
                          locale = locale(decimal_mark = ",", grouping_mark = "."))
 
-auxiliar_geo <- st_as_sf(auxiliar_geo, coords=c("latitudInventario","longitudInventario"))
+localizacion_censos <- st_as_sf(auxiliar_geo, coords=c("latitudInventario","longitudInventario"))
 
 ggplot() +
   geom_sf(data = auxiliar_geo) +
@@ -90,7 +90,8 @@ localidad <- select(localidad,
 
 departamentos <- select(departamentos,
                         -geomDepartamento,
-                        -geometry)
+                        -geometry,
+                        -idProvincia)
 
 # Tables that we use all their columns
 
@@ -99,9 +100,9 @@ departamentos <- select(departamentos,
 # cobertura
 # especies
 # estrato
-# fisonomia
+# fisonomia_base
 # fisonomia_cobertura
-# formacion
+# formacion_base
 # formacion_altura_cobertura
 # inventario_flora
 # observadores

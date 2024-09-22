@@ -44,6 +44,8 @@ inventario_flora_full <- inventario_flora |>
 
 
 # Join inventario_flora and inventario_vegetal with all the other tables already joined
+# This join have issues because of the inner join, we lost information.
+# Full join is not adecuate in this scenario.
 
 final_dataset <- inner_join(inventario_vegetal_full, inventario_flora_full, by = "idInventario")
 
