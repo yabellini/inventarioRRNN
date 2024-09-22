@@ -5,10 +5,13 @@
 \alias{localizacion_censos}
 \title{Localizacion geografica de los censos}
 \format{
-:
+\subsection{\code{localizacion_censos}}{
+
+Un conjunto de datos con 423 filas y 2 variables:
 \describe{
 \item{censo}{Identificado unico del censo}
 \item{geometry}{localizacion de los censos en formato de puntos}
+}
 }
 }
 \usage{

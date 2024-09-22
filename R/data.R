@@ -83,12 +83,12 @@
 #'
 #' Divisiones politicas departamentales de La Pampa en formato geografico de poligonos.
 #'
-#'
-#' @format :
+#' @format ## `departamentos`
+#' Un conjunto de datos con 22 filas y 3 variables:
 #' \describe{
 #'   \item{idDepartamento}{Identificador unico del departamento}
 #'   \item{nombreDepartamento}{Nombre del departamento}
-#'   \item{geomTDepartamento}{polignos}
+#'   \item{geomTDepartamento}{poligonos}
 #' }
 "departamentos"
 
@@ -96,8 +96,8 @@
 #'
 #' Latitud y longitud con la ubicacion geografica de los censos de campo.
 #'
-#'
-#' @format :
+#' @format ## `localizacion_censos`
+#' Un conjunto de datos con 423 filas y 2 variables:
 #' \describe{
 #'   \item{censo}{Identificado unico del censo}
 #'   \item{geometry}{localizacion de los censos en formato de puntos}

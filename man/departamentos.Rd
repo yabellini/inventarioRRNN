@@ -5,11 +5,14 @@
 \alias{departamentos}
 \title{Departamentos de La Pampa}
 \format{
-:
+\subsection{\code{departamentos}}{
+
+Un conjunto de datos con 22 filas y 3 variables:
 \describe{
 \item{idDepartamento}{Identificador unico del departamento}
 \item{nombreDepartamento}{Nombre del departamento}
-\item{geomTDepartamento}{polignos}
+\item{geomTDepartamento}{poligonos}
+}
 }
 }
 \usage{

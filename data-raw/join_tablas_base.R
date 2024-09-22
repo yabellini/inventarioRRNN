@@ -40,3 +40,9 @@ inventario_flora<- inventario_flora |>
   select(-idEstrato, -idEspecie, -idCobertura) |>
   rename(estrato = nombreEstrato,
          especie = nombreActualEspecie)
+
+
+inventario_flora
+inventario_vegetal
+departamentos
+
