@@ -1,3 +1,6 @@
+# This is the scripts with joins to use.
+# it creates all the dataframes que use on the package.
+
 # Load necessary packages
 library(dplyr)
 
