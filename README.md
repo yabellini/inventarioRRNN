@@ -16,3 +16,8 @@ Daniel Estelrich, Claudia Chirino, Yanina Bellini Saibene, Marcos Lorda. CAI 201
 
 ![Diagrama de entidad relacion de la base de datos desde la que se obtuvieron los datos](data-raw/diagramas.jpeg)
 
+## Funciones
+
+### Reporte Censos
+
+Esta funcion implementa la consulta que se presenta en esta visualizacion: https://public.tableau.com/app/profile/juan.caldera/viz/CensosdevegetacionUNLPam/Hoja5
