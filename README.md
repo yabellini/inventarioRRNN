@@ -14,5 +14,5 @@ Daniel Estelrich, Claudia Chirino, Yanina Bellini Saibene, Marcos Lorda. CAI 201
 
 ## Base de datos
 
-![Diagrama de entidad relacion de la base de datos desde la que se obtuvieron los datos](diagramas.jpeg)
+![Diagrama de entidad relacion de la base de datos desde la que se obtuvieron los datos](data-raw/diagramas.jpeg)
 

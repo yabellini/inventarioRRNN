@@ -31,3 +31,9 @@ devtools::document()
 # ℹ Updating inventarioRRNN documentation
 # ℹ Loading inventarioRRNN
 # Writing inventario.Rd
+
+usethis::use_package("dplyr")
+usethis::use_package("tidyr")
+
+usethis::use_r("reporte_especie")
+devtools::load()
