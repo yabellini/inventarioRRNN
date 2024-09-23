@@ -12,5 +12,7 @@ De esta manera es más sencillo integrar estos datos de base en otros análisis 
 [1] Sistema de Información y base de datos para el inventario de recursos naturales de La Pampa. Juan Caldera, Raúl Peinetti, 
 Daniel Estelrich, Claudia Chirino, Yanina Bellini Saibene, Marcos Lorda. CAI 2016, Octavo Congreso de AgroInformática. 2016.
 
+## Base de datos
 
+![Diagrama de entidad relacion de la base de datos desde la que se obtuvieron los datos](diagramas.jpeg)
 
