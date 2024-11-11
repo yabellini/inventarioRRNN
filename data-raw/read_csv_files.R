@@ -52,6 +52,10 @@ ggplot() +
   geom_sf(data = auxiliar_geo) +
   ggtitle("Censos")
 
+ggplot() +
+  geom_sf(data = localizacion_censos) +
+  ggtitle("Censos")
+
 
 # Geographic data localidad
 
@@ -71,9 +75,12 @@ departamentos <- st_read("data-raw/Censos de vegetacion - DepartamentosLP.csv")
 
 departamentos <- st_as_sf(departamentos, wkt = "geomTDepartamento")
 
-ggplot() +
-  geom_sf(data = departamentos) +
-  ggtitle("Departamentos")
+# Mapa de los censos con los deptos.
+# ggplot() +
+#   geom_sf(data = departamentos) +
+#   geom_sf(data = localizacion_censos) +
+#   ggtitle("Censos por Departamentos") +
+#   theme_minimal()
 
 # Select only the columns we will use
 
