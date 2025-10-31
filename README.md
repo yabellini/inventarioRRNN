@@ -1,5 +1,9 @@
 # InventarioRRNN
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/yabellini/inventarioRRNN/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/yabellini/inventarioRRNN/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
 El paquete de datos de R inventarioRRNN es parte de una serie de actividades del INTA Anguil y la Universidad Nacional de La Pampa 
 para abrir los datos primarios del inventario de recursos naturales de La Pampa. 
 
