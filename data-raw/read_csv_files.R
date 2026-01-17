@@ -46,7 +46,7 @@ observadores <- read_csv("data-raw/Censos de vegetacion - Observadores.csv", na 
 auxiliar_geo <- read_csv("data-raw/Censos de vegetacion - AuxiliarGEO.csv",
                          locale = locale(decimal_mark = ",", grouping_mark = "."))
 
-localizacion_censos <- st_as_sf(auxiliar_geo, coords=c("latitudInventario","longitudInventario"))
+localizacion_censos <- st_as_sf(auxiliar_geo, coords=c("longitudInventario","latitudInventario"), crs=4326)
 
 ggplot() +
   geom_sf(data = auxiliar_geo) +
