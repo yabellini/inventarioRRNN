@@ -22,6 +22,79 @@ Daniel Estelrich, Claudia Chirino, Yanina Bellini Saibene, Marcos Lorda. CAI 201
 
 ## Funciones
 
+El paquete incluye las siguientes funciones para analizar y visualizar los datos de los censos:
+
+### reporte_especie()
+
+Lista todas las especies presentes en uno o más censos con el cálculo del porcentaje de cobertura por especie en cada estrato.
+
+```r
+# Reporte de un solo censo
+reporte_especie(44)
+
+# Reporte de múltiples censos
+reporte_especie(c(44, 45, 46))
+```
+
+### reporte_estacion()
+
+Genera un listado del total de especies por censo agrupadas por la estación del año en que crece cada especie.
+
+```r
+# Reporte básico
+reporte_estacion()
+
+# Con filtros y porcentajes
+reporte_estacion(
+  censos = c(1, 2, 3),
+  estaciones = "Invernal",
+  porcentajes = TRUE
+)
+```
+
+### mapear_especie()
+
+Filtra los censos que contienen una especie determinada y retorna los datos geográficos de ubicación.
+
+```r
+# Obtener ubicaciones de censos con una especie
+ubicaciones <- mapear_especie("Acantholippia seriphioides")
+
+# Visualizar en mapa
+library(sf)
+plot(ubicaciones)
+```
+
 ### Reporte Censos
 
 Esta funcion implementa la consulta que se presenta en esta visualizacion: https://public.tableau.com/app/profile/juan.caldera/viz/CensosdevegetacionUNLPam/Hoja5
+
+## Instalación
+
+```r
+# Desde GitHub
+# install.packages("devtools")
+devtools::install_github("yabellini/inventarioRRNN")
+```
+
+## Dependencias
+
+El paquete requiere:
+- R (>= 2.10)
+- dplyr
+- tidyr
+- sf (para datos geográficos)
+
+## Testing
+
+El paquete incluye una suite completa de tests:
+
+```r
+library(testthat)
+library(inventarioRRNN)
+test_check("inventarioRRNN")
+```
+
+## Cambios Recientes
+
+Ver [CHANGES_SUMMARY.md](CHANGES_SUMMARY.md) para detalles sobre las mejoras y correcciones implementadas.
