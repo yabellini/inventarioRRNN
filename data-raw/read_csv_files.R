@@ -7,6 +7,7 @@ library(readr)
 library(tibble)
 library(sf)
 library(stringr)
+library(ggplot2)
 
 # Read CSV files into tibbles
 # The NA are present as "" or "NULL"
