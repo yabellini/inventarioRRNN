@@ -17,6 +17,10 @@
 #'   Si la especie no se encuentra en ningun censo, retorna un objeto
 #'   sf vacio con las mismas columnas.
 #'
+#' @examples
+#' Mapear la especie "Acantholippia seriphioides"
+#' mapear_especie("Acantholippia seriphioides")
+#'
 #' @export
 mapear_especie <- function(nombre_cientifico) {
 
