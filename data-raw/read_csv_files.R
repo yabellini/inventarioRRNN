@@ -85,7 +85,7 @@ ggplot() +
 
 departamentos <- st_read("data-raw/Censos de vegetacion - DepartamentosLP.csv")
 
-departamentos <- st_as_sf(departamentos, wkt = "geomTDepartamento")
+departamentos <- st_as_sf(departamentos, wkt = "geomTDepartamento", crs=4326)
 
 # Mapa de los censos con los deptos.
 # ggplot() +
