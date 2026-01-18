@@ -103,3 +103,15 @@
 #'   \item{geometry}{localizacion de los censos en formato de puntos}
 #' }
 "localizacion_censos"
+
+utils::globalVariables(c(
+  "inventario_vegetal",
+  "inventario_flora",
+  "nombreCientificoEspecie",
+  "especie",
+  "estrato",
+  "porcentajeCobertura",
+  "estacionalidad",
+  "idInventario",
+  "n"
+))
