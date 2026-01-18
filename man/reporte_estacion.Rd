@@ -4,17 +4,27 @@
 \alias{reporte_estacion}
 \title{Listado de cantidad de especies por estacion}
 \usage{
-reporte_estacion()
+reporte_estacion(censos = NULL, estaciones = NULL, porcentajes = FALSE)
+}
+\arguments{
+\item{censos}{Vector numerico con los numeros de censo a incluir.
+Si es NULL (por defecto), incluye todos los censos.}
+
+\item{estaciones}{Vector de caracteres con las estaciones a incluir.
+Valores posibles: "Invernal", "Primavero-estival".
+Si es NULL (por defecto), incluye todas las estaciones.}
+
+\item{porcentajes}{Logico. Si es TRUE, muestra porcentajes en lugar
+de conteos absolutos. Por defecto FALSE.}
 }
 \value{
-tabla
+Un data frame con una fila por idInventario y columnas para
+cada estacionalidad presente. Los valores son conteos de especies
+(o porcentajes si porcentajes = TRUE).
 }
 \description{
 Listado del total de especies presentes en cada censo
 realizado agrupadas por la estación del año en que
 crece cada especie.
-}
-\examples{
-reporte_estacion()
-
+Opcionalmente muestra porcentajes en lugar de conteos absolutos.
 }
