@@ -12,15 +12,9 @@ Debe coincidir exactamente con los valores en la columna
 nombreCientificoEspecie de \code{inventario_flora}.}
 }
 \value{
-Un objeto sf (simple features) con la geometria de puntos
-que representa la ubicacion geografica de los censos donde se
-encontro la especie. Contiene las columnas:
-\describe{
-\item{censo}{Numero del censo}
-\item{geometry}{Coordenadas geograficas (puntos)}
-}
-Si la especie no se encuentra en ningun censo, retorna un objeto
-sf vacio con las mismas columnas.
+Un objeto ggplot2 con un mapa que muestra la ubicacion geografica de
+los censos donde se encontro la especie.
+Si la especie no se encuentra en ningun censo, retorna un mapa sin puntos
 }
 \description{
 Filtra los censos que contienen una especie determinada y retorna

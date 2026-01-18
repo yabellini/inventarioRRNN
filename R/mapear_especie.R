@@ -7,15 +7,9 @@
 #'   Debe coincidir exactamente con los valores en la columna
 #'   nombreCientificoEspecie de `inventario_flora`.
 #'
-#' @return Un objeto sf (simple features) con la geometria de puntos
-#'   que representa la ubicacion geografica de los censos donde se
-#'   encontro la especie. Contiene las columnas:
-#'   \describe{
-#'     \item{censo}{Numero del censo}
-#'     \item{geometry}{Coordenadas geograficas (puntos)}
-#'   }
-#'   Si la especie no se encuentra en ningun censo, retorna un objeto
-#'   sf vacio con las mismas columnas.
+#' @return Un objeto ggplot2 con un mapa que muestra la ubicacion geografica de
+#' los censos donde se encontro la especie.
+#' Si la especie no se encuentra en ningun censo, retorna un mapa sin puntos
 #'
 #' @export
 mapear_especie <- function(nombre_cientifico) {
@@ -56,7 +50,7 @@ mapear_especie <- function(nombre_cientifico) {
     # Puntos de observación
     ggplot2::geom_sf(data = datos_mapa,
                      color = "#f77f00",
-                     size = 3,
+                     size = 2,
                      alpha = 0.7,
                      shape = 19) +
 
