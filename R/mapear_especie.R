@@ -17,10 +17,6 @@
 #'   Si la especie no se encuentra en ningun censo, retorna un objeto
 #'   sf vacio con las mismas columnas.
 #'
-#' @examples
-#' Mapear la especie "Acantholippia seriphioides"
-#' mapear_especie("Acantholippia seriphioides")
-#'
 #' @export
 mapear_especie <- function(nombre_cientifico) {
 
@@ -66,9 +62,9 @@ mapear_especie <- function(nombre_cientifico) {
 
     # Títulos y etiquetas
     ggplot2::labs(
-      title = paste("Distribución de", nombre_cientifico),
+      title = paste("Distribucion de", nombre_cientifico),
       subtitle = paste("Registros de censos en La Pampa (n =", nrow(datos_mapa), ")"),
-      caption = "Fuente: Datos de censos | Elaboración paquete inventarioRRNN"
+      caption = "Fuente: Datos de censos | Elaborado por el paquete inventarioRRNN"
     ) +
 
     # Tema profesional
