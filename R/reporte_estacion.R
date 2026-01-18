@@ -68,9 +68,9 @@ reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FAL
                 values_fill = 0)
 
   if (porcentajes) {
-    total_censos <- n_distinct(flora$idInventario)
+    total_censos <- dplyr::n_distinct(flora$idInventario)
     reporte <- reporte |>
-      dplyr::mutate(across(-idInventario, ~ (.x / total_censos) * 100))
+      dplyr::mutate(dplyr::across(-idInventario, ~ (.x / total_censos) * 100))
   }
 
   return(reporte)
