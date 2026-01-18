@@ -27,11 +27,19 @@
 #' @export
 reporte_especie <- function(numero_censo){
 
+  if (missing(numero_censo) || is.null(numero_censo)) {
+    cli::cli_abort("Debes especificar al menos un valor para {.arg numero_censo}.")
+  }
+
+  if (!is.numeric(numero_censo)) {
+    cli::cli_abort(
+      "El argumento {.arg numero_censo} debe ser numérico. Se recibió: {.cls {class(numero_censo)}}."
+    )
+  }
+
   data <- inventario_vegetal
 
-  if (!is.null(numero_censo)) {
-    inventario <- data[data$censo %in% numero_censo, ]$idInventario
-  }
+  inventario <- data[data$censo %in% numero_censo, ]$idInventario
 
   data <- inventario_flora
 
