@@ -7,10 +7,16 @@
 reporte_especie(numero_censo)
 }
 \arguments{
-\item{numero_censo}{}
+\item{numero_censo}{Numero entero o vector de numeros que identifican los censos a incluir en el reporte. Deben existir en la columna 'censo' del data frame 'inventario_vegetal'.}
 }
 \value{
-tabla
+Un data frame en formato ancho con las siguientes columnas:
+\describe{
+\item{nombreCientificoEspecie}{Nombre cientifico de la especie.}
+\item{especie}{Nombre comun de la especie.}
+\item{\if{html}{\out{<estrato>}}}{Columnas dinamicas para cada estrato presente en los censos seleccionados, con el porcentaje de cobertura de la especie en ese estrato.}
+}
+Los valores NA indican que la especie no esta presente en ese estrato.
 }
 \description{
 Lista todas las especies presentes en un censo con el calculo
@@ -22,6 +28,10 @@ Si un estrato no tiene presencia de ninguna especie no se
 muestra en la tabla.
 }
 \examples{
+# Reporte de un solo censo
 reporte_especie(44)
+
+# Reporte de varios censos
+reporte_especie(c(33, 44, 55))
 
 }
