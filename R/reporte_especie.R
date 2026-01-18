@@ -31,12 +31,6 @@ reporte_especie <- function(numero_censo){
     cli::cli_abort("Debes especificar al menos un valor para {.arg numero_censo}.")
   }
 
-  if (!is.numeric(numero_censo)) {
-    cli::cli_abort(
-      "El argumento {.arg numero_censo} debe ser numérico. Se recibió: {.cls {class(numero_censo)}}."
-    )
-  }
-
   data <- inventario_vegetal
 
   inventario <- data[data$censo %in% numero_censo, ]$idInventario
