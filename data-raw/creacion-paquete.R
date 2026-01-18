@@ -6,7 +6,7 @@ usethis::use_data(fisonomia)
 usethis::use_data(localizacion_censos)
 
 usethis::use_data(departamentos, overwrite = TRUE)
-
+usethis::use_data(localizacion_censos, overwrite = TRUE)
 
 # > usethis::use_data(inventario_data)
 # ✔ Adding R to Depends field in DESCRIPTION.

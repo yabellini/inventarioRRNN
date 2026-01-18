@@ -62,7 +62,7 @@ final_dataset <- select(final_dataset,
 
 
 # Join with the geodata info
-# The table auxiliar_geo have the geographic infomration to create maps with the census data.
+# The table auxiliar_geo have the geographic information to create maps with the census data.
 
 final_dataset <- left_join(final_dataset, auxiliar_geo, by = "censo")
 
