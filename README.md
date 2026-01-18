@@ -13,7 +13,7 @@ que permite su consulta y mapeo [1].
 inventarioRRNN se presenta como otra forma de distribuir los datos primarios junto con su documentación para usuarios de R.  
 De esta manera es más sencillo integrar estos datos de base en otros análisis y modelos que se realizan utilizando el lenguaje R.
 
-[1] Sistema de Información y base de datos para el inventario de recursos naturales de La Pampa. Juan Caldera, Raúl Peinetti, 
+[1] [Sistema de Información y base de datos para el inventario de recursos naturales de La Pampa](https://45jaiio.sadio.org.ar/sites/default/files/CAI-20.pdf). Juan Caldera, Raúl Peinetti, 
 Daniel Estelrich, Claudia Chirino, Yanina Bellini Saibene, Marcos Lorda. CAI 2016, Octavo Congreso de AgroInformática. 2016.
 
 ## Base de datos
