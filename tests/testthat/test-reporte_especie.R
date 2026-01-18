@@ -13,3 +13,12 @@ test_that("reporte_especie devuelve data para un censo valido", {
   expect_true("nombreCientificoEspecie" %in% names(resultado))
   expect_true("especie" %in% names(resultado))
 })
+
+test_that("reporte_especie maneja censos que no existen", {
+  # Test con un censo que no existe
+  result <- reporte_especie(99999)
+
+  # Debe retornar un dataset vacio
+  expect_true(is.data.frame(result))
+  expect_equal(nrow(result), 0)
+})
