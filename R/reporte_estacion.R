@@ -52,7 +52,7 @@ reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FAL
 
     if (length(invalid) > 0) {
       cli::cli_warn(
-        "Estaciones no válidas ignoradas: {cli::col_red(paste(invalid, collapse = ', '))}"
+        "Estaciones no v\u00e1lidas ignoradas: {cli::col_red(paste(invalid, collapse = ', '))}"
       )
     }
     flora <- flora[flora$estacionalidad %in% estaciones, ]
