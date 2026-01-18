@@ -5,10 +5,30 @@
 #' crece cada especie.
 #' Opcionalmente muestra porcentajes en lugar de conteos absolutos.
 #'
-#' @return tabla
+#'@param censos Vector numerico con los numeros de censo a incluir.
+#'   Si es NULL (por defecto), incluye todos los censos.
+#' @param estaciones Vector de caracteres con las estaciones a incluir.
+#'   Valores posibles: "Invernal", "Primavero-estival".
+#'   Si es NULL (por defecto), incluye todas las estaciones.
+#' @param porcentajes Logico. Si es TRUE, muestra porcentajes en lugar
+#'   de conteos absolutos. Por defecto FALSE.
+#'
+#' @return Un data frame con una fila por idInventario y columnas para
+#'   cada estacionalidad presente. Los valores son conteos de especies
+#'   (o porcentajes si porcentajes = TRUE).
 #'
 #' @examples
+#' # Reporte de todas las estaciones
 #' reporte_estacion()
+#'
+#'' # Reporte de censos especificos
+#' reporte_estacion(censos = c(404, 377, 573))
+#'
+#'# Reporte con porcentajes
+#' reporte_estacion(porcentajes = TRUE)
+#'
+#' # Reporte de solo estacion invernal
+#' reporte_estacion(estaciones = "Invernal")
 #'
 #' @export
 reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FALSE){
