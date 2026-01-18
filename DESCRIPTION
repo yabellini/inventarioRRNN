@@ -2,15 +2,27 @@ Package: inventarioRRNN
 Title: Datos de Campo de Recursos Naturales de La Pampa
 Version: 0.0.0.9000
 Authors@R: 
-    c(person(given = "Yanina", family = "Bellini Saibene", , "yabellini@gmail.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0002-4522-7466")),
-      person(given = "Juan Marcelo", family = "Caldera", "johnyboiler@gmail.com", role = c("aut")))
+    c(
+      person(
+        given  = "Yanina",
+        family = "Bellini Saibene",
+        email  = "yabellini@gmail.com",
+        role   = c("aut", "cre"),
+        comment = c(ORCID = "0000-0002-4522-7466")
+      ),
+      person(
+        given  = "Juan Marcelo",
+        family = "Caldera",
+        email  = "johnyboiler@gmail.com",
+        role   = c("aut")
+      )
+    )
 Description: Datos primarios de más de 300 censos de vegetación realizados durante 1975 a 1979, utilizados para la caracterización de los recursos naturales de la Provincia de La Pampa.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: es
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 URL: https://github.com/yabellini/inventarioRRNN
 BugReports: https://github.com/yabellini/inventarioRRNN/issues
 Depends: 
