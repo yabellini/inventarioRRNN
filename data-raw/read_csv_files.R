@@ -126,5 +126,48 @@ departamentos <- select(departamentos,
 # inventario_flora
 # observadores
 
+# Leyendo datos meteorologicos
+
+Meteorologia_Medidores <- read_delim("data-raw/Meteorologia_Medidores.csv",
+                                     delim = ";", escape_double = FALSE,
+                                     locale = locale(encoding = "ISO-8859-1"),
+                                     trim_ws = TRUE)
+
+Meteorologia_PrecipDiarias_parte1_1910_2004 <- read_delim("data-raw/Meteorologia_PrecipDiarias_parte1_1910-2004.csv",
+                                                          delim = ";",
+                                                          escape_double = FALSE,
+                                                          trim_ws = TRUE)
+
+# Procesar los datos
+
+Precipitacion_diarias <- Meteorologia_PrecipDiarias_parte1_1910_2004 |>
+  mutate(FECHA = as.Date(FECHA, format = "%d/%m/%Y")) |>
+  filter(TIPOMEDICION == "D")
+
+Precipitacion_diarias_LP <- Precipitacion_diarias |>
+  inner_join(Meteorologia_Medidores, by = c("IDMEDIDOR" = "IDMEDIDOR")) |>
+  filter(PROVINCIA == "La Pampa", lubridate::year(FECHA) >1969, lubridate::year(FECHA) < 1980) |>
+  select(FECHA, IDMEDIDOR, MEDIDOR, MM, LATITUD, LONGITUD, INSTITUCION)
 
 
+#Necesito transformar los numeros de latitud y longitud
+
+mover_decimal <- function(x) {
+  # Contar dígitos (sin contar el signo negativo)
+  n_digitos <- nchar(abs(x))
+  # Dividir por 10^(n_digitos - 2) para dejar 2 dígitos antes del punto
+  x / 10^(n_digitos - 2)
+}
+
+Precipitacion_diarias_LP <- Precipitacion_diarias_LP %>%
+  mutate(
+    LONGITUD = mover_decimal(LONGITUD),
+    LATITUD = mover_decimal(LATITUD)
+  )
+
+precipitaciones <- st_as_sf(Precipitacion_diarias_LP, coords=c("LONGITUD","LATITUD"), crs=4326)
+
+ggplot() +
+  geom_sf(data = precipitaciones) +
+  geom_sf(data = departamentos) +
+  ggtitle("Precipitaciones La Pampa 1970-1979")
