@@ -168,6 +168,6 @@ Precipitacion_diarias_LP <- Precipitacion_diarias_LP %>%
 precipitaciones <- st_as_sf(Precipitacion_diarias_LP, coords=c("LONGITUD","LATITUD"), crs=4326)
 
 ggplot() +
-  geom_sf(data = precipitaciones) +
   geom_sf(data = departamentos) +
+  geom_sf(data = precipitaciones) +
   ggtitle("Precipitaciones La Pampa 1970-1979")
