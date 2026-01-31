@@ -32,6 +32,13 @@ Creates the combined datasets used on the main functions:
 #### 4. `creacion-paquete.R`
 Package creation commands using `usethis` functions to save data to `data/` directory
 
+#### 5. `read_shapefiles.R`
+Utility script to read all shapefiles from a folder and convert them to .rda format for the R package:
+- Reads all `.shp` files from a specified folder
+- Converts shapefiles to `sf` objects
+- Saves them as `.rda` files using `usethis::use_data()`
+- Provides bilingual documentation (Spanish/English)
+
 ## How to Regenerate Data
 
 To regenerate the data objects used in the package, run the scripts in the following order:
@@ -40,6 +47,25 @@ To regenerate the data objects used in the package, run the scripts in the follo
 source("data-raw/read_csv_files.R")
 source("data-raw/join_tablas_base.R")
 source("data-raw/creacion-paquete.R")
+```
+
+### Using Shapefiles
+
+To add shapefiles to the package:
+
+```r
+source("data-raw/read_shapefiles.R")
+
+# Read all shapefiles from a folder
+folder <- "path/to/folder/with/shapefiles"
+shapefiles <- read_all_shapefiles(folder)
+
+# Save as package data
+save_shapefiles_to_package(shapefiles, overwrite = TRUE)
+
+# Or do both steps at once
+# read_all_shapefiles("path/to/folder") |> 
+#   save_shapefiles_to_package(overwrite = TRUE)
 ```
 
 ## Notes
