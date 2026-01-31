@@ -39,6 +39,12 @@ Utility script to read all shapefiles from a folder and convert them to .rda for
 - Saves them as `.rda` files using `usethis::use_data()`
 - Provides bilingual documentation (Spanish/English)
 
+#### 6. `ejemplo_uso_shapefiles.R`
+Example file demonstrating how to use the `read_shapefiles.R` functions:
+- Shows different usage patterns
+- Includes commented examples for common scenarios
+- Bilingual comments (Spanish/English)
+
 ## How to Regenerate Data
 
 To regenerate the data objects used in the package, run the scripts in the following order:
