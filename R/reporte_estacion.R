@@ -31,7 +31,9 @@
 #' reporte_estacion(estaciones = "Invernal")
 #'
 #' @export
-reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FALSE){
+reporte_estacion <- function(censos = NULL,
+                             estaciones = NULL,
+                             porcentajes = FALSE){
 
   flora <- inventario_flora
 
@@ -72,7 +74,5 @@ reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FAL
     reporte <- reporte |>
       dplyr::mutate(dplyr::across(-idInventario, ~ (.x / total_censos) * 100))
   }
-
   return(reporte)
-
 }
