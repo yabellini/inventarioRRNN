@@ -21,17 +21,19 @@
 #' # Reporte de todas las estaciones
 #' reporte_estacion()
 #'
-#'' # Reporte de censos especificos
+#' # Reporte de censos especificos
 #' reporte_estacion(censos = c(404, 377, 573))
 #'
-#'# Reporte con porcentajes
+#' # Reporte con porcentajes
 #' reporte_estacion(porcentajes = TRUE)
 #'
 #' # Reporte de solo estacion invernal
 #' reporte_estacion(estaciones = "Invernal")
 #'
 #' @export
-reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FALSE){
+reporte_estacion <- function(censos = NULL,
+                             estaciones = NULL,
+                             porcentajes = FALSE){
 
   flora <- inventario_flora
 
@@ -72,7 +74,5 @@ reporte_estacion <- function(censos = NULL, estaciones = NULL, porcentajes = FAL
     reporte <- reporte |>
       dplyr::mutate(dplyr::across(-idInventario, ~ (.x / total_censos) * 100))
   }
-
   return(reporte)
-
 }
