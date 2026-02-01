@@ -21,10 +21,10 @@
 #' # Reporte de todas las estaciones
 #' reporte_estacion()
 #'
-#'' # Reporte de censos especificos
+#' # Reporte de censos especificos
 #' reporte_estacion(censos = c(404, 377, 573))
 #'
-#'# Reporte con porcentajes
+#' # Reporte con porcentajes
 #' reporte_estacion(porcentajes = TRUE)
 #'
 #' # Reporte de solo estacion invernal
