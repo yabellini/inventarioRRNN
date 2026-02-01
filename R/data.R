@@ -104,6 +104,513 @@
 #' }
 "localizacion_censos"
 
+#' Aeropuertos de La Pampa
+#'
+#' Datos geográficos de aeropuertos en la Provincia de La Pampa.
+#'
+#' @format ## `aeropuertos_la_pampa`
+#' Un conjunto de datos geográfico con 2 filas y 5 variables:
+#' \describe{
+#'   \item{ID}{Identificador del aeropuerto}
+#'   \item{Nombre}{Nombre del aeropuerto}
+#'   \item{Telefono}{Número de teléfono de contacto}
+#'   \item{Direccion}{Dirección del aeropuerto}
+#'   \item{geometry}{Geometría de tipo punto con la ubicación del aeropuerto}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"aeropuertos_la_pampa"
+
+#' Cuencas hídricas de La Pampa
+#'
+#' Datos geográficos de las cuencas hídricas de la Provincia de La Pampa.
+#'
+#' @format ## `cuencas_hidricas_la_pampa`
+#' Un conjunto de datos geográfico con 6 filas y 6 variables:
+#' \describe{
+#'   \item{FID_cuenca}{Identificador de la cuenca}
+#'   \item{NOMBRE}{Nombre de la cuenca hídrica}
+#'   \item{PROVINCIA}{Provincia}
+#'   \item{SISTEMA}{Sistema hídrico al que pertenece}
+#'   \item{SUPERFICIE}{Superficie de la cuenca}
+#'   \item{geometry}{Geometría de tipo polígono con el área de la cuenca}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"cuencas_hidricas_la_pampa"
+
+#' Cursos de agua de La Pampa
+#'
+#' Datos geográficos de los cursos de agua en la Provincia de La Pampa.
+#'
+#' @format ## `cursos_de_agua_la_pampa`
+#' Un conjunto de datos geográfico con 1099 filas y 5 variables:
+#' \describe{
+#'   \item{TIPO}{Tipo de curso de agua}
+#'   \item{NOMBRE}{Nombre del curso de agua}
+#'   \item{REGIMEN}{Régimen hídrico}
+#'   \item{Longitud}{Longitud del curso}
+#'   \item{geometry}{Geometría de tipo línea con el trazado del curso de agua}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"cursos_de_agua_la_pampa"
+
+#' Ejidos municipales de La Pampa
+#'
+#' Datos geográficos de los ejidos municipales de la Provincia de La Pampa con información 
+#' agropecuaria y ganadera.
+#'
+#' @format ## `ejidos_municipales_la_pampa`
+#' Un conjunto de datos geográfico con 79 filas y 46 variables:
+#' \describe{
+#'   \item{Microregio}{Microrregión}
+#'   \item{Ejido}{Nombre del ejido municipal}
+#'   \item{Num_Ejido}{Número del ejido}
+#'   \item{Superficie}{Superficie del ejido}
+#'   \item{VERD_INV}{Verdeos de invierno (ha)}
+#'   \item{PASTURAS}{Pasturas (ha)}
+#'   \item{MONTE}{Monte (ha)}
+#'   \item{CAMPONAT}{Campo natural (ha)}
+#'   \item{AGRICULT}{Agricultura (ha)}
+#'   \item{RASTROJO}{Rastrojos (ha)}
+#'   \item{TRIGO_HA}{Trigo - hectáreas}
+#'   \item{TRIGO_QQ}{Trigo - quintales}
+#'   \item{MAIZ_HA}{Maíz - hectáreas}
+#'   \item{MAIZ_QQ}{Maíz - quintales}
+#'   \item{GIRAS_HA}{Girasol - hectáreas}
+#'   \item{GIRAS_QQ}{Girasol - quintales}
+#'   \item{SOJA_HA}{Soja - hectáreas}
+#'   \item{SOJA_QQ}{Soja - quintales}
+#'   \item{BOVINO}{Total bovinos}
+#'   \item{VACAS}{Vacas}
+#'   \item{VAQUILLO}{Vaquillonas}
+#'   \item{TERNEROS}{Terneros}
+#'   \item{TERNERAS}{Terneras}
+#'   \item{NOVILLIT}{Novillitos}
+#'   \item{NOVILLOS}{Novillos}
+#'   \item{TORITOS}{Toritos}
+#'   \item{TOROS}{Toros}
+#'   \item{OVINOS}{Total ovinos}
+#'   \item{OVEJAS}{Ovejas}
+#'   \item{CORDEROS}{Corderos}
+#'   \item{CORDERAS}{Corderas}
+#'   \item{BORREGOS}{Borregos}
+#'   \item{BORREGAS}{Borregas}
+#'   \item{CAPONES}{Capones}
+#'   \item{CARNEROS}{Carneros}
+#'   \item{PORCINOS}{Total porcinos}
+#'   \item{CERDAS}{Cerdas}
+#'   \item{LECHONES}{Lechones}
+#'   \item{CACHORRO}{Cachorros}
+#'   \item{CAPONESP}{Capones porcinos}
+#'   \item{PADRILLO}{Padrillos}
+#'   \item{CAPRINOS}{Total caprinos}
+#'   \item{MADRES}{Madres}
+#'   \item{CHIVITOS}{Chivitos}
+#'   \item{CASTRONE}{Castrones}
+#'   \item{Ind_Especi}{Índice de especialización}
+#'   \item{geometry}{Geometría de tipo polígono con el área del ejido}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"ejidos_municipales_la_pampa"
+
+#' Espejos de agua de La Pampa
+#'
+#' Datos geográficos de los espejos de agua en la Provincia de La Pampa.
+#'
+#' @format ## `espejos_de_agua_la_pampa_v2`
+#' Un conjunto de datos geográfico con 1086 filas y 5 variables:
+#' \describe{
+#'   \item{TIPO}{Tipo de espejo de agua}
+#'   \item{NOMBRE}{Nombre del espejo de agua}
+#'   \item{REGIMEN}{Régimen hídrico}
+#'   \item{Superficie}{Superficie del espejo de agua}
+#'   \item{geometry}{Geometría de tipo polígono con el área del espejo de agua}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"espejos_de_agua_la_pampa_v2"
+
+#' Ferrocarriles de La Pampa
+#'
+#' Datos geográficos de las líneas ferroviarias en la Provincia de La Pampa.
+#'
+#' @format ## `ferrocarriles_la_pampa`
+#' Un conjunto de datos geográfico con 41 filas y 6 variables:
+#' \describe{
+#'   \item{NOMBRE}{Nombre de la línea ferroviaria}
+#'   \item{TROCHA}{Tipo de trocha}
+#'   \item{HOJA}{Hoja cartográfica}
+#'   \item{Estado}{Estado de la línea}
+#'   \item{Tipo}{Tipo de línea}
+#'   \item{geometry}{Geometría de tipo línea con el trazado del ferrocarril}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"ferrocarriles_la_pampa"
+
+#' Fisonomía de la vegetación 2008 de La Pampa
+#'
+#' Datos geográficos de la fisonomía de la vegetación en la Provincia de La Pampa según 
+#' clasificación LCCS (Land Cover Classification System) del año 2008.
+#'
+#' @format ## `fisonomia_2008_la_pampa_v2`
+#' Un conjunto de datos geográfico con 1276 filas y 4 variables:
+#' \describe{
+#'   \item{LCCS_COD3}{Código LCCS de clasificación de cobertura del suelo}
+#'   \item{categoria}{Categoría de fisonomía}
+#'   \item{Superficie}{Superficie del área}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"fisonomia_2008_la_pampa_v2"
+
+#' Microregiones de La Pampa
+#'
+#' Datos geográficos de las microregiones de la Provincia de La Pampa con información 
+#' agropecuaria y ganadera.
+#'
+#' @format ## `microregion_la_pampa`
+#' Un conjunto de datos geográfico con 10 filas y 43 variables:
+#' \describe{
+#'   \item{Microregio}{Nombre de la microrregión}
+#'   \item{Superficie}{Superficie de la microrregión}
+#'   \item{VERD_INV}{Verdeos de invierno (ha)}
+#'   \item{PASTURAS}{Pasturas (ha)}
+#'   \item{MONTE}{Monte (ha)}
+#'   \item{CAMPONAT}{Campo natural (ha)}
+#'   \item{AGRICULT}{Agricultura (ha)}
+#'   \item{RASTROJO}{Rastrojos (ha)}
+#'   \item{TRIGO_HA}{Trigo - hectáreas}
+#'   \item{TRIGO_QQ}{Trigo - quintales}
+#'   \item{MAIZ_HA}{Maíz - hectáreas}
+#'   \item{MAIZ_QQ}{Maíz - quintales}
+#'   \item{GIRAS_HA}{Girasol - hectáreas}
+#'   \item{GIRAS_QQ}{Girasol - quintales}
+#'   \item{SOJA_HA}{Soja - hectáreas}
+#'   \item{SOJA_QQ}{Soja - quintales}
+#'   \item{BOVINO}{Total bovinos}
+#'   \item{VACAS}{Vacas}
+#'   \item{VAQUILLO}{Vaquillonas}
+#'   \item{TERNEROS}{Terneros}
+#'   \item{TERNERAS}{Terneras}
+#'   \item{NOVILLIT}{Novillitos}
+#'   \item{NOVILLOS}{Novillos}
+#'   \item{TORITOS}{Toritos}
+#'   \item{TOROS}{Toros}
+#'   \item{OVINOS}{Total ovinos}
+#'   \item{OVEJAS}{Ovejas}
+#'   \item{CORDEROS}{Corderos}
+#'   \item{CORDERAS}{Corderas}
+#'   \item{BORREGOS}{Borregos}
+#'   \item{BORREGAS}{Borregas}
+#'   \item{CAPONES}{Capones}
+#'   \item{CARNEROS}{Carneros}
+#'   \item{PORCINOS}{Total porcinos}
+#'   \item{CERDAS}{Cerdas}
+#'   \item{LECHONES}{Lechones}
+#'   \item{CACHORRO}{Cachorros}
+#'   \item{CAPONESP}{Capones porcinos}
+#'   \item{PADRILLO}{Padrillos}
+#'   \item{CAPRINOS}{Total caprinos}
+#'   \item{MADRES}{Madres}
+#'   \item{CHIVITOS}{Chivitos}
+#'   \item{CASTRONE}{Castrones}
+#'   \item{geometry}{Geometría de tipo polígono con el área de la microrregión}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"microregion_la_pampa"
+
+#' Regiones geomorfológicas de La Pampa
+#'
+#' Datos geográficos de las regiones geomorfológicas de la Provincia de La Pampa.
+#'
+#' @format ## `regiones_geomorfologicas_la_pampa_v2`
+#' Un conjunto de datos geográfico con 18 filas y 9 variables:
+#' \describe{
+#'   \item{ID}{Identificador de la región}
+#'   \item{SUBREGION}{Nombre de la subregión geomorfológica}
+#'   \item{Superficie}{Superficie de la región}
+#'   \item{ALTIMETRIA}{Características altimétricas}
+#'   \item{RELIEVE}{Tipo de relieve}
+#'   \item{LITOLOGIA}{Características litológicas}
+#'   \item{DRENAJE}{Características del drenaje}
+#'   \item{SECTORIZ}{Sectorización}
+#'   \item{geometry}{Geometría de tipo polígono con el área de la región}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"regiones_geomorfologicas_la_pampa_v2"
+
+#' Regiones hídricas de La Pampa
+#'
+#' Datos geográficos de las regiones hídricas de la Provincia de La Pampa.
+#'
+#' @format ## `regiones_hidricas_la_pampa`
+#' Un conjunto de datos geográfico con 13 filas y 4 variables:
+#' \describe{
+#'   \item{NOMBRE}{Nombre de la región hídrica}
+#'   \item{CODIGO}{Código de la región}
+#'   \item{Superficie}{Superficie de la región}
+#'   \item{geometry}{Geometría de tipo polígono con el área de la región}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"regiones_hidricas_la_pampa"
+
+#' Suelos de La Pampa
+#'
+#' Datos geográficos de los suelos de la Provincia de La Pampa con clasificación taxonómica.
+#'
+#' @format ## `suelos_la_pampa`
+#' Un conjunto de datos geográfico con 261 filas y 30 variables:
+#' \describe{
+#'   \item{ID_CARTO}{Identificador cartográfico}
+#'   \item{Cod_RRNN}{Código de recursos naturales}
+#'   \item{Cod_Atlas}{Código del atlas}
+#'   \item{Superficie}{Superficie del área}
+#'   \item{PROVINCIA}{Provincia}
+#'   \item{SIMB_TAXO}{Símbolo taxonómico}
+#'   \item{SIMB_ORD}{Símbolo del orden}
+#'   \item{TIPO_UC}{Tipo de unidad cartográfica}
+#'   \item{PAISAJE}{Tipo de paisaje}
+#'   \item{REGION_IP}{Región del índice de productividad}
+#'   \item{ZONA_IP}{Zona del índice de productividad}
+#'   \item{IP_CARTO}{Índice de productividad cartográfico}
+#'   \item{USDA_CAR}{Clasificación USDA cartográfica}
+#'   \item{SUB_USDA}{Sub-clasificación USDA}
+#'   \item{LIM1_CAR}{Limitación 1 cartográfica}
+#'   \item{LIM2_CAR}{Limitación 2 cartográfica}
+#'   \item{LIM3_CAR}{Limitación 3 cartográfica}
+#'   \item{NRO_COMP}{Número de componente}
+#'   \item{PAISAJE2}{Paisaje secundario}
+#'   \item{TAXON_1}{Taxón 1}
+#'   \item{FAMILIA_1}{Familia 1}
+#'   \item{FASE_1}{Fase 1}
+#'   \item{TAXON_2}{Taxón 2}
+#'   \item{FAMILIA_2}{Familia 2}
+#'   \item{FASE_2}{Fase 2}
+#'   \item{TAXON_3}{Taxón 3}
+#'   \item{FAMILIA_3}{Familia 3}
+#'   \item{FASE_3}{Fase 3}
+#'   \item{Orden}{Orden del suelo}
+#'   \item{geometry}{Geometría de tipo polígono con el área}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"suelos_la_pampa"
+
+#' Vegetación de recursos naturales de La Pampa
+#'
+#' Datos geográficos de la vegetación de la Provincia de La Pampa.
+#'
+#' @format ## `vegetacion_rn_la_pampa_v2`
+#' Un conjunto de datos geográfico con 336 filas y 5 variables:
+#' \describe{
+#'   \item{VEGETACION}{Tipo de vegetación}
+#'   \item{Superficie}{Superficie del área}
+#'   \item{FISONOMIAS}{Fisonomías presentes}
+#'   \item{CARACTERIS}{Características de la vegetación}
+#'   \item{geometry}{Geometría de tipo polígono con el área}
+#' }
+#' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
+#' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
+#' Descargado de GeoINTA con licencia CC-BY.
+"vegetacion_rn_la_pampa_v2"
+
+#' Evapotranspiración de referencia (Penman-Monteith) de La Pampa
+#'
+#' Datos geográficos de evapotranspiración de referencia anual calculada mediante 
+#' el método de Penman-Monteith para la Provincia de La Pampa.
+#'
+#' @format ## `evp_Penman_Monteith_la_pampa`
+#' Un conjunto de datos geográfico con 3 filas y 2 variables:
+#' \describe{
+#'   \item{EVP_REF_AN}{Evapotranspiración de referencia anual (mm)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"evp_Penman_Monteith_la_pampa"
+
+#' Evapotranspiración real (Thornthwaite) de La Pampa
+#'
+#' Datos geográficos de evapotranspiración real anual calculada mediante 
+#' el método de Thornthwaite para la Provincia de La Pampa.
+#'
+#' @format ## `evp_real_thrnthwaite_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 2 variables:
+#' \describe{
+#'   \item{EVP_Real_A}{Evapotranspiración real anual (mm)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"evp_real_thrnthwaite_la_pampa"
+
+#' Horas de frío anuales de La Pampa
+#'
+#' Datos geográficos de las horas de frío anuales (temperatura por debajo de 7°C) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `horas_frio_anuales_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 3 variables:
+#' \describe{
+#'   \item{Horas}{Número de horas de frío anuales}
+#'   \item{ID}{Identificador}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"horas_frio_anuales_la_pampa"
+
+#' Precipitaciones anuales de La Pampa
+#'
+#' Datos geográficos de las precipitaciones anuales promedio en la Provincia de La Pampa.
+#'
+#' @format ## `precipitaciones_anuales_la_pampa`
+#' Un conjunto de datos geográfico con 5 filas y 3 variables:
+#' \describe{
+#'   \item{ID}{Identificador}
+#'   \item{MM}{Precipitación anual en milímetros}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"precipitaciones_anuales_la_pampa"
+
+#' Primera helada a 0.05m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la primera helada del año medida a 
+#' 0.05 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `primera_helada_0_05m_la_pampa`
+#' Un conjunto de datos geográfico con 7 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"primera_helada_0_05m_la_pampa"
+
+#' Primera helada a 1.5m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la primera helada del año medida a 
+#' 1.5 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `primera_helada_1_5m_la_pampa`
+#' Un conjunto de datos geográfico con 7 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"primera_helada_1_5m_la_pampa"
+
+#' Temperatura media anual de La Pampa
+#'
+#' Datos geográficos de la temperatura media anual en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_media_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 3 variables:
+#' \describe{
+#'   \item{Id}{Identificador}
+#'   \item{TEMP}{Temperatura media anual (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_media_la_pampa"
+
+#' Temperatura del mes más cálido de La Pampa
+#'
+#' Datos geográficos de la temperatura media del mes más cálido (enero) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_mes_mas_calido_la_pampa`
+#' Un conjunto de datos geográfico con 8 filas y 3 variables:
+#' \describe{
+#'   \item{Id}{Identificador}
+#'   \item{TEMP}{Temperatura media del mes más cálido (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_mes_mas_calido_la_pampa"
+
+#' Temperatura del mes más frío de La Pampa
+#'
+#' Datos geográficos de la temperatura media del mes más frío (julio) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_mes_mas_frio_la_pampa`
+#' Un conjunto de datos geográfico con 2 filas y 2 variables:
+#' \describe{
+#'   \item{TEMP}{Temperatura media del mes más frío (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_mes_mas_frio_la_pampa"
+
+#' Última helada a 0.05m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la última helada del año medida a 
+#' 0.05 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `ultima_helada_0_05m_la_pampa`
+#' Un conjunto de datos geográfico con 10 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"ultima_helada_0_05m_la_pampa"
+
+#' Última helada a 1.5m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la última helada del año medida a 
+#' 1.5 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `ultima_helada_1_5m_la_pampa`
+#' Un conjunto de datos geográfico con 5 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"ultima_helada_1_5m_la_pampa"
+
 utils::globalVariables(c(
   "inventario_vegetal",
   "inventario_flora",
