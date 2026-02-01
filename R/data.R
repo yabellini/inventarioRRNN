@@ -433,6 +433,184 @@
 #' Descargado de GeoINTA con licencia CC-BY.
 "vegetacion_rn_la_pampa_v2"
 
+#' Evapotranspiración de referencia (Penman-Monteith) de La Pampa
+#'
+#' Datos geográficos de evapotranspiración de referencia anual calculada mediante 
+#' el método de Penman-Monteith para la Provincia de La Pampa.
+#'
+#' @format ## `evp_Penman_Monteith_la_pampa`
+#' Un conjunto de datos geográfico con 3 filas y 2 variables:
+#' \describe{
+#'   \item{EVP_REF_AN}{Evapotranspiración de referencia anual (mm)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"evp_Penman_Monteith_la_pampa"
+
+#' Evapotranspiración real (Thornthwaite) de La Pampa
+#'
+#' Datos geográficos de evapotranspiración real anual calculada mediante 
+#' el método de Thornthwaite para la Provincia de La Pampa.
+#'
+#' @format ## `evp_real_thrnthwaite_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 2 variables:
+#' \describe{
+#'   \item{EVP_Real_A}{Evapotranspiración real anual (mm)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"evp_real_thrnthwaite_la_pampa"
+
+#' Horas de frío anuales de La Pampa
+#'
+#' Datos geográficos de las horas de frío anuales (temperatura por debajo de 7°C) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `horas_frio_anuales_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 3 variables:
+#' \describe{
+#'   \item{Horas}{Número de horas de frío anuales}
+#'   \item{ID}{Identificador}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"horas_frio_anuales_la_pampa"
+
+#' Precipitaciones anuales de La Pampa
+#'
+#' Datos geográficos de las precipitaciones anuales promedio en la Provincia de La Pampa.
+#'
+#' @format ## `precipitaciones_anuales_la_pampa`
+#' Un conjunto de datos geográfico con 5 filas y 3 variables:
+#' \describe{
+#'   \item{ID}{Identificador}
+#'   \item{MM}{Precipitación anual en milímetros}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"precipitaciones_anuales_la_pampa"
+
+#' Primera helada a 0.05m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la primera helada del año medida a 
+#' 0.05 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `primera_helada_0_05m_la_pampa`
+#' Un conjunto de datos geográfico con 7 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"primera_helada_0_05m_la_pampa"
+
+#' Primera helada a 1.5m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la primera helada del año medida a 
+#' 1.5 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `primera_helada_1_5m_la_pampa`
+#' Un conjunto de datos geográfico con 7 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"primera_helada_1_5m_la_pampa"
+
+#' Temperatura media anual de La Pampa
+#'
+#' Datos geográficos de la temperatura media anual en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_media_la_pampa`
+#' Un conjunto de datos geográfico con 4 filas y 3 variables:
+#' \describe{
+#'   \item{Id}{Identificador}
+#'   \item{TEMP}{Temperatura media anual (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_media_la_pampa"
+
+#' Temperatura del mes más cálido de La Pampa
+#'
+#' Datos geográficos de la temperatura media del mes más cálido (enero) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_mes_mas_calido_la_pampa`
+#' Un conjunto de datos geográfico con 8 filas y 3 variables:
+#' \describe{
+#'   \item{Id}{Identificador}
+#'   \item{TEMP}{Temperatura media del mes más cálido (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_mes_mas_calido_la_pampa"
+
+#' Temperatura del mes más frío de La Pampa
+#'
+#' Datos geográficos de la temperatura media del mes más frío (julio) 
+#' en la Provincia de La Pampa.
+#'
+#' @format ## `temperatura_mes_mas_frio_la_pampa`
+#' Un conjunto de datos geográfico con 2 filas y 2 variables:
+#' \describe{
+#'   \item{TEMP}{Temperatura media del mes más frío (°C)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"temperatura_mes_mas_frio_la_pampa"
+
+#' Última helada a 0.05m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la última helada del año medida a 
+#' 0.05 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `ultima_helada_0_05m_la_pampa`
+#' Un conjunto de datos geográfico con 10 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"ultima_helada_0_05m_la_pampa"
+
+#' Última helada a 1.5m de altura en La Pampa
+#'
+#' Datos geográficos con la fecha promedio de la última helada del año medida a 
+#' 1.5 metros de altura en la Provincia de La Pampa.
+#'
+#' @format ## `ultima_helada_1_5m_la_pampa`
+#' Un conjunto de datos geográfico con 5 filas y 2 variables:
+#' \describe{
+#'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
+#'   \item{geometry}{Geometría de tipo polígono}
+#' }
+#' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
+#' heladas y lluvia de la provincia de La Pampa (Argentina)".
+#' Descargado de GeoINTA con licencia CC-BY.
+"ultima_helada_1_5m_la_pampa"
+
 utils::globalVariables(c(
   "inventario_vegetal",
   "inventario_flora",
