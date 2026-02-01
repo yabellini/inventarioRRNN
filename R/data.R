@@ -108,7 +108,7 @@
 #'
 #' Datos geográficos de aeropuertos en la Provincia de La Pampa.
 #'
-#' @format ## `aeropuertos_la_pampa`
+#' @format ## `aeropuertos`
 #' Un conjunto de datos geográfico con 2 filas y 5 variables:
 #' \describe{
 #'   \item{ID}{Identificador del aeropuerto}
@@ -120,13 +120,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"aeropuertos_la_pampa"
+"aeropuertos"
 
 #' Cuencas hídricas de La Pampa
 #'
 #' Datos geográficos de las cuencas hídricas de la Provincia de La Pampa.
 #'
-#' @format ## `cuencas_hidricas_la_pampa`
+#' @format ## `cuencas_hidricas`
 #' Un conjunto de datos geográfico con 6 filas y 6 variables:
 #' \describe{
 #'   \item{FID_cuenca}{Identificador de la cuenca}
@@ -139,13 +139,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"cuencas_hidricas_la_pampa"
+"cuencas_hidricas"
 
 #' Cursos de agua de La Pampa
 #'
 #' Datos geográficos de los cursos de agua en la Provincia de La Pampa.
 #'
-#' @format ## `cursos_de_agua_la_pampa`
+#' @format ## `cursos_de_agua`
 #' Un conjunto de datos geográfico con 1099 filas y 5 variables:
 #' \describe{
 #'   \item{TIPO}{Tipo de curso de agua}
@@ -157,14 +157,14 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"cursos_de_agua_la_pampa"
+"cursos_de_agua"
 
 #' Ejidos municipales de La Pampa
 #'
 #' Datos geográficos de los ejidos municipales de la Provincia de La Pampa con información 
 #' agropecuaria y ganadera.
 #'
-#' @format ## `ejidos_municipales_la_pampa`
+#' @format ## `ejidos_municipales`
 #' Un conjunto de datos geográfico con 79 filas y 46 variables:
 #' \describe{
 #'   \item{Microregio}{Microrregión}
@@ -218,13 +218,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"ejidos_municipales_la_pampa"
+"ejidos_municipales"
 
 #' Espejos de agua de La Pampa
 #'
 #' Datos geográficos de los espejos de agua en la Provincia de La Pampa.
 #'
-#' @format ## `espejos_de_agua_la_pampa_v2`
+#' @format ## `espejos_de_agua`
 #' Un conjunto de datos geográfico con 1086 filas y 5 variables:
 #' \describe{
 #'   \item{TIPO}{Tipo de espejo de agua}
@@ -236,13 +236,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"espejos_de_agua_la_pampa_v2"
+"espejos_de_agua"
 
 #' Ferrocarriles de La Pampa
 #'
 #' Datos geográficos de las líneas ferroviarias en la Provincia de La Pampa.
 #'
-#' @format ## `ferrocarriles_la_pampa`
+#' @format ## `ferrocarriles`
 #' Un conjunto de datos geográfico con 41 filas y 6 variables:
 #' \describe{
 #'   \item{NOMBRE}{Nombre de la línea ferroviaria}
@@ -255,14 +255,14 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"ferrocarriles_la_pampa"
+"ferrocarriles"
 
 #' Fisonomía de la vegetación 2008 de La Pampa
 #'
 #' Datos geográficos de la fisonomía de la vegetación en la Provincia de La Pampa según 
 #' clasificación LCCS (Land Cover Classification System) del año 2008.
 #'
-#' @format ## `fisonomia_2008_la_pampa_v2`
+#' @format ## `fisonomia_2008`
 #' Un conjunto de datos geográfico con 1276 filas y 4 variables:
 #' \describe{
 #'   \item{LCCS_COD3}{Código LCCS de clasificación de cobertura del suelo}
@@ -273,14 +273,14 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"fisonomia_2008_la_pampa_v2"
+"fisonomia_2008"
 
 #' Microregiones de La Pampa
 #'
 #' Datos geográficos de las microregiones de la Provincia de La Pampa con información 
 #' agropecuaria y ganadera.
 #'
-#' @format ## `microregion_la_pampa`
+#' @format ## `microregion`
 #' Un conjunto de datos geográfico con 10 filas y 43 variables:
 #' \describe{
 #'   \item{Microregio}{Nombre de la microrregión}
@@ -331,13 +331,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"microregion_la_pampa"
+"microregion"
 
 #' Regiones geomorfológicas de La Pampa
 #'
 #' Datos geográficos de las regiones geomorfológicas de la Provincia de La Pampa.
 #'
-#' @format ## `regiones_geomorfologicas_la_pampa_v2`
+#' @format ## `regiones_geomorfologicas`
 #' Un conjunto de datos geográfico con 18 filas y 9 variables:
 #' \describe{
 #'   \item{ID}{Identificador de la región}
@@ -353,13 +353,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"regiones_geomorfologicas_la_pampa_v2"
+"regiones_geomorfologicas"
 
 #' Regiones hídricas de La Pampa
 #'
 #' Datos geográficos de las regiones hídricas de la Provincia de La Pampa.
 #'
-#' @format ## `regiones_hidricas_la_pampa`
+#' @format ## `regiones_hidricas`
 #' Un conjunto de datos geográfico con 13 filas y 4 variables:
 #' \describe{
 #'   \item{NOMBRE}{Nombre de la región hídrica}
@@ -370,13 +370,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"regiones_hidricas_la_pampa"
+"regiones_hidricas"
 
 #' Suelos de La Pampa
 #'
 #' Datos geográficos de los suelos de la Provincia de La Pampa con clasificación taxonómica.
 #'
-#' @format ## `suelos_la_pampa`
+#' @format ## `suelos`
 #' Un conjunto de datos geográfico con 261 filas y 30 variables:
 #' \describe{
 #'   \item{ID_CARTO}{Identificador cartográfico}
@@ -413,13 +413,13 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"suelos_la_pampa"
+"suelos"
 
 #' Vegetación de recursos naturales de La Pampa
 #'
 #' Datos geográficos de la vegetación de la Provincia de La Pampa.
 #'
-#' @format ## `vegetacion_rn_la_pampa_v2`
+#' @format ## `vegetacion_rn`
 #' Un conjunto de datos geográfico con 336 filas y 5 variables:
 #' \describe{
 #'   \item{VEGETACION}{Tipo de vegetación}
@@ -431,14 +431,14 @@
 #' @source Roberto, Zinda; Martínez Uncal, María Celeste. Bases para el Ordenamiento Territorial. 
 #' Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 #' Descargado de GeoINTA con licencia CC-BY.
-"vegetacion_rn_la_pampa_v2"
+"vegetacion_rn"
 
 #' Evapotranspiración de referencia (Penman-Monteith) de La Pampa
 #'
 #' Datos geográficos de evapotranspiración de referencia anual calculada mediante 
 #' el método de Penman-Monteith para la Provincia de La Pampa.
 #'
-#' @format ## `evp_Penman_Monteith_la_pampa`
+#' @format ## `evp_Penman_Monteith`
 #' Un conjunto de datos geográfico con 3 filas y 2 variables:
 #' \describe{
 #'   \item{EVP_REF_AN}{Evapotranspiración de referencia anual (mm)}
@@ -447,14 +447,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"evp_Penman_Monteith_la_pampa"
+"evp_Penman_Monteith"
 
 #' Evapotranspiración real (Thornthwaite) de La Pampa
 #'
 #' Datos geográficos de evapotranspiración real anual calculada mediante 
 #' el método de Thornthwaite para la Provincia de La Pampa.
 #'
-#' @format ## `evp_real_thrnthwaite_la_pampa`
+#' @format ## `evp_real_thrnthwaite`
 #' Un conjunto de datos geográfico con 4 filas y 2 variables:
 #' \describe{
 #'   \item{EVP_Real_A}{Evapotranspiración real anual (mm)}
@@ -463,14 +463,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"evp_real_thrnthwaite_la_pampa"
+"evp_real_thrnthwaite"
 
 #' Horas de frío anuales de La Pampa
 #'
 #' Datos geográficos de las horas de frío anuales (temperatura por debajo de 7°C) 
 #' en la Provincia de La Pampa.
 #'
-#' @format ## `horas_frio_anuales_la_pampa`
+#' @format ## `horas_frio_anuales`
 #' Un conjunto de datos geográfico con 4 filas y 3 variables:
 #' \describe{
 #'   \item{Horas}{Número de horas de frío anuales}
@@ -480,13 +480,13 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"horas_frio_anuales_la_pampa"
+"horas_frio_anuales"
 
 #' Precipitaciones anuales de La Pampa
 #'
 #' Datos geográficos de las precipitaciones anuales promedio en la Provincia de La Pampa.
 #'
-#' @format ## `precipitaciones_anuales_la_pampa`
+#' @format ## `precipitaciones_anuales`
 #' Un conjunto de datos geográfico con 5 filas y 3 variables:
 #' \describe{
 #'   \item{ID}{Identificador}
@@ -496,14 +496,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"precipitaciones_anuales_la_pampa"
+"precipitaciones_anuales"
 
 #' Primera helada a 0.05m de altura en La Pampa
 #'
 #' Datos geográficos con la fecha promedio de la primera helada del año medida a 
 #' 0.05 metros de altura en la Provincia de La Pampa.
 #'
-#' @format ## `primera_helada_0_05m_la_pampa`
+#' @format ## `primera_helada_0_05m`
 #' Un conjunto de datos geográfico con 7 filas y 2 variables:
 #' \describe{
 #'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
@@ -512,14 +512,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"primera_helada_0_05m_la_pampa"
+"primera_helada_0_05m"
 
 #' Primera helada a 1.5m de altura en La Pampa
 #'
 #' Datos geográficos con la fecha promedio de la primera helada del año medida a 
 #' 1.5 metros de altura en la Provincia de La Pampa.
 #'
-#' @format ## `primera_helada_1_5m_la_pampa`
+#' @format ## `primera_helada_1_5m`
 #' Un conjunto de datos geográfico con 7 filas y 2 variables:
 #' \describe{
 #'   \item{FECHA}{Fecha promedio de la primera helada (formato día/mes)}
@@ -528,13 +528,13 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"primera_helada_1_5m_la_pampa"
+"primera_helada_1_5m"
 
 #' Temperatura media anual de La Pampa
 #'
 #' Datos geográficos de la temperatura media anual en la Provincia de La Pampa.
 #'
-#' @format ## `temperatura_media_la_pampa`
+#' @format ## `temperatura_media`
 #' Un conjunto de datos geográfico con 4 filas y 3 variables:
 #' \describe{
 #'   \item{Id}{Identificador}
@@ -544,14 +544,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"temperatura_media_la_pampa"
+"temperatura_media"
 
 #' Temperatura del mes más cálido de La Pampa
 #'
 #' Datos geográficos de la temperatura media del mes más cálido (enero) 
 #' en la Provincia de La Pampa.
 #'
-#' @format ## `temperatura_mes_mas_calido_la_pampa`
+#' @format ## `temperatura_mes_mas_calido`
 #' Un conjunto de datos geográfico con 8 filas y 3 variables:
 #' \describe{
 #'   \item{Id}{Identificador}
@@ -561,14 +561,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"temperatura_mes_mas_calido_la_pampa"
+"temperatura_mes_mas_calido"
 
 #' Temperatura del mes más frío de La Pampa
 #'
 #' Datos geográficos de la temperatura media del mes más frío (julio) 
 #' en la Provincia de La Pampa.
 #'
-#' @format ## `temperatura_mes_mas_frio_la_pampa`
+#' @format ## `temperatura_mes_mas_frio`
 #' Un conjunto de datos geográfico con 2 filas y 2 variables:
 #' \describe{
 #'   \item{TEMP}{Temperatura media del mes más frío (°C)}
@@ -577,14 +577,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"temperatura_mes_mas_frio_la_pampa"
+"temperatura_mes_mas_frio"
 
 #' Última helada a 0.05m de altura en La Pampa
 #'
 #' Datos geográficos con la fecha promedio de la última helada del año medida a 
 #' 0.05 metros de altura en la Provincia de La Pampa.
 #'
-#' @format ## `ultima_helada_0_05m_la_pampa`
+#' @format ## `ultima_helada_0_05m`
 #' Un conjunto de datos geográfico con 10 filas y 2 variables:
 #' \describe{
 #'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
@@ -593,14 +593,14 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"ultima_helada_0_05m_la_pampa"
+"ultima_helada_0_05m"
 
 #' Última helada a 1.5m de altura en La Pampa
 #'
 #' Datos geográficos con la fecha promedio de la última helada del año medida a 
 #' 1.5 metros de altura en la Provincia de La Pampa.
 #'
-#' @format ## `ultima_helada_1_5m_la_pampa`
+#' @format ## `ultima_helada_1_5m`
 #' Un conjunto de datos geográfico con 5 filas y 2 variables:
 #' \describe{
 #'   \item{FECHA}{Fecha promedio de la última helada (formato día/mes)}
@@ -609,7 +609,7 @@
 #' @source Casagrande, Vergara y Bellini. "Cartas agroclimáticas actuales de temperaturas, 
 #' heladas y lluvia de la provincia de La Pampa (Argentina)".
 #' Descargado de GeoINTA con licencia CC-BY.
-"ultima_helada_1_5m_la_pampa"
+"ultima_helada_1_5m"
 
 utils::globalVariables(c(
   "inventario_vegetal",
