@@ -21,7 +21,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-horas_frio_anuales_la_pampa
+horas_frio_anuales
 }
 \description{
 Datos geográficos de las horas de frío anuales (temperatura por debajo de 7°C)

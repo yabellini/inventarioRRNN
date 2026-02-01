@@ -22,7 +22,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-regiones_hidricas_la_pampa
+regiones_hidricas
 }
 \description{
 Datos geográficos de las regiones hídricas de la Provincia de La Pampa.

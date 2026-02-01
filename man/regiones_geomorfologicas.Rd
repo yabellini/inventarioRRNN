@@ -27,7 +27,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-regiones_geomorfologicas_la_pampa_v2
+regiones_geomorfologicas
 }
 \description{
 Datos geográficos de las regiones geomorfológicas de la Provincia de La Pampa.

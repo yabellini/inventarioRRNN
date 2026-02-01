@@ -21,7 +21,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-temperatura_media_la_pampa
+temperatura_media
 }
 \description{
 Datos geográficos de la temperatura media anual en la Provincia de La Pampa.

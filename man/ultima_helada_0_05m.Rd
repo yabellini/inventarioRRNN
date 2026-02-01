@@ -20,7 +20,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-ultima_helada_0_05m_la_pampa
+ultima_helada_0_05m
 }
 \description{
 Datos geográficos con la fecha promedio de la última helada del año medida a

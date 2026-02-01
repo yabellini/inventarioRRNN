@@ -24,7 +24,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-cuencas_hidricas_la_pampa
+cuencas_hidricas
 }
 \description{
 Datos geográficos de las cuencas hídricas de la Provincia de La Pampa.

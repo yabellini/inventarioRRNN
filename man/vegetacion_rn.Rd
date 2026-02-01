@@ -23,7 +23,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-vegetacion_rn_la_pampa_v2
+vegetacion_rn
 }
 \description{
 Datos geográficos de la vegetación de la Provincia de La Pampa.

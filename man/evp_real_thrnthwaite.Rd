@@ -20,7 +20,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-evp_real_thrnthwaite_la_pampa
+evp_real_thrnthwaite
 }
 \description{
 Datos geográficos de evapotranspiración real anual calculada mediante

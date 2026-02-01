@@ -62,7 +62,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-microregion_la_pampa
+microregion
 }
 \description{
 Datos geográficos de las microregiones de la Provincia de La Pampa con información

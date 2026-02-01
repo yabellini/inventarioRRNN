@@ -24,7 +24,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-ferrocarriles_la_pampa
+ferrocarriles
 }
 \description{
 Datos geográficos de las líneas ferroviarias en la Provincia de La Pampa.

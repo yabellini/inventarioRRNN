@@ -20,7 +20,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-temperatura_mes_mas_frio_la_pampa
+temperatura_mes_mas_frio
 }
 \description{
 Datos geográficos de la temperatura media del mes más frío (julio)

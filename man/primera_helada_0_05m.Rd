@@ -20,7 +20,7 @@ heladas y lluvia de la provincia de La Pampa (Argentina)".
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-primera_helada_0_05m_la_pampa
+primera_helada_0_05m
 }
 \description{
 Datos geográficos con la fecha promedio de la primera helada del año medida a

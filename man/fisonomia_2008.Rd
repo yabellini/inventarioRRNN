@@ -22,7 +22,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-fisonomia_2008_la_pampa_v2
+fisonomia_2008
 }
 \description{
 Datos geográficos de la fisonomía de la vegetación en la Provincia de La Pampa según

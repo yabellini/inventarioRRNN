@@ -48,7 +48,7 @@ Publicación Técnica N° 87. ISSN 0325-2132. Mayo 2012. Ediciones INTA.
 Descargado de GeoINTA con licencia CC-BY.
 }
 \usage{
-suelos_la_pampa
+suelos
 }
 \description{
 Datos geográficos de los suelos de la Provincia de La Pampa con clasificación taxonómica.
