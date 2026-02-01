@@ -1,0 +1,197 @@
+---
+title: "Uso del paquete inventarioRRNN"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Uso del paquete inventarioRRNN}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.width = 7,
+  fig.height = 5
+)
+```
+
+## Introducción
+
+El paquete **inventarioRRNN** proporciona acceso a datos primarios de más de 300 censos de vegetación realizados durante 1975 a 1979 en la Provincia de La Pampa, Argentina. Estos datos fueron utilizados para la caracterización de los recursos naturales de la provincia y ahora están disponibles para su análisis con R.
+
+El paquete incluye funciones para:
+
+- Generar reportes de especies presentes en censos específicos
+- Analizar la distribución estacional de especies
+- Visualizar geográficamente la ubicación de censos y especies
+
+## Instalación
+
+Para comenzar a usar el paquete, primero debemos cargarlo:
+
+```{r setup}
+library(inventarioRRNN)
+```
+
+## Datos disponibles
+
+El paquete incluye varios conjuntos de datos:
+
+- **inventario_vegetal**: Información sobre los censos realizados
+- **inventario_flora**: Datos de la flora presente en cada censo
+- **localizacion_censos**: Ubicación geográfica de los censos
+- **departamentos**: Divisiones políticas departamentales de La Pampa
+
+Además, incluye datos geográficos adicionales como aeropuertos, cuencas hídricas, cursos de agua, y más.
+
+## Función `reporte_especie()`
+
+La función `reporte_especie()` lista todas las especies presentes en uno o más censos, calculando el porcentaje de cobertura por especie en cada estrato.
+
+### Ejemplo 1: Reporte de un solo censo
+
+```{r reporte-especie-uno}
+# Generar reporte para el censo número 44
+reporte <- reporte_especie(44)
+head(reporte)
+```
+
+El resultado muestra las especies encontradas con su nombre científico, nombre común, y el porcentaje de cobertura en cada estrato donde se encontró.
+
+### Ejemplo 2: Reporte de múltiples censos
+
+```{r reporte-especie-multiple}
+# Generar reporte para varios censos
+reporte_varios <- reporte_especie(c(44, 45, 46))
+head(reporte_varios, 10)
+```
+
+Cuando se consultan múltiples censos, la función combina los datos de todos ellos.
+
+## Función `reporte_estacion()`
+
+La función `reporte_estacion()` genera un listado del total de especies por censo, agrupadas por la estación del año en que crece cada especie.
+
+### Ejemplo 1: Reporte básico
+
+```{r reporte-estacion-basico}
+# Reporte de todas las estaciones para todos los censos
+reporte_est <- reporte_estacion()
+head(reporte_est)
+```
+
+### Ejemplo 2: Filtrar por censos específicos
+
+```{r reporte-estacion-censos}
+# Reporte de censos específicos
+reporte_est_filtrado <- reporte_estacion(censos = c(306, 544, 381))
+head(reporte_est_filtrado)
+```
+
+### Ejemplo 3: Filtrar por estación
+
+```{r reporte-estacion-invernal}
+# Reporte solo de especies invernales
+reporte_invernal <- reporte_estacion(estaciones = "Invernal")
+head(reporte_invernal)
+```
+
+### Ejemplo 4: Mostrar porcentajes
+
+```{r reporte-estacion-porcentajes}
+# Reporte con porcentajes en lugar de conteos absolutos
+reporte_pct <- reporte_estacion(
+  censos = c(306, 544, 381),
+  estaciones = "Invernal",
+  porcentajes = TRUE
+)
+head(reporte_pct)
+```
+
+## Función `mapear_censos()`
+
+La función `mapear_censos()` genera un mapa que muestra la ubicación geográfica de todos los censos realizados en La Pampa.
+
+```{r mapear-censos, fig.width=8, fig.height=6}
+# Crear mapa de todos los censos
+mapear_censos()
+```
+
+Este mapa muestra:
+
+- Los límites departamentales de La Pampa
+- La ubicación de cada censo como un punto verde
+- Una escala y una flecha norte para referencia
+
+## Función `mapear_especie()`
+
+La función `mapear_especie()` filtra los censos que contienen una especie determinada y muestra su distribución geográfica.
+
+```{r mapear-especie, fig.width=8, fig.height=6}
+# Mapear la distribución de una especie específica
+mapear_especie("Acantholippia seriphioides")
+```
+
+Este mapa indica dónde se encontró la especie especificada durante los censos.
+
+### Ejemplo con otra especie
+
+```{r mapear-especie-2, fig.width=8, fig.height=6}
+# Probar con otra especie
+mapear_especie("Stipa tenuis")
+```
+
+## Flujo de trabajo típico
+
+Un flujo de trabajo típico podría incluir:
+
+1. **Explorar censos específicos**: Usar `reporte_especie()` para ver qué especies están presentes
+2. **Analizar patrones estacionales**: Usar `reporte_estacion()` para entender la distribución temporal
+3. **Visualizar distribución espacial**: Usar `mapear_especie()` para ver dónde se encuentra una especie de interés
+4. **Contexto general**: Usar `mapear_censos()` para entender la cobertura geográfica del estudio
+
+### Ejemplo integrado
+
+```{r ejemplo-integrado}
+# 1. Obtener especies del censo 44
+especies_censo_44 <- reporte_especie(44)
+
+# Ver las primeras especies encontradas
+head(especies_censo_44, 3)
+
+# 2. Tomar la primera especie y ver su distribución
+primera_especie <- especies_censo_44$nombreCientificoEspecie[1]
+cat("Primera especie encontrada:", primera_especie, "\n")
+```
+
+```{r ejemplo-integrado-mapa, fig.width=8, fig.height=6}
+# 3. Mapear esa especie
+mapear_especie(primera_especie)
+```
+
+## Acceso a los datos crudos
+
+Los usuarios también pueden acceder directamente a los datos para análisis personalizados:
+
+```{r datos-crudos}
+# Ver estructura del inventario de flora
+str(inventario_flora)
+
+# Ver algunos registros del inventario vegetal
+head(inventario_vegetal)
+```
+
+## Conclusión
+
+El paquete **inventarioRRNN** facilita el acceso y análisis de datos históricos de vegetación de La Pampa. Las funciones incluidas permiten:
+
+- Generar reportes detallados de especies por censo
+- Analizar patrones estacionales de la vegetación
+- Visualizar la distribución geográfica de especies y censos
+
+Para más información, consulta la documentación de cada función con `?nombre_funcion` o visita el repositorio del proyecto en GitHub.
+
+## Referencias
+
+Caldera, J., Peinetti, R., Estelrich, D., Chirino, C., Bellini Saibene, Y., & Lorda, M. (2016). Sistema de Información y base de datos para el inventario de recursos naturales de La Pampa. CAI 2016, Octavo Congreso de AgroInformática. 45 JAIIO. Disponible en: https://45jaiio.sadio.org.ar/sites/default/files/CAI-20.pdf
