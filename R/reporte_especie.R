@@ -19,10 +19,10 @@
 #'
 #' @examples
 #' # Reporte de un solo censo
-#' reporte_especie(44)
+#' reporte_especie(503)
 #'
 #' # Reporte de varios censos
-#' reporte_especie(c(33, 44, 55))
+#' reporte_especie(c(75, 76, 77))
 #'
 #' @export
 reporte_especie <- function(numero_censo){

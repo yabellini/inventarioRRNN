@@ -52,8 +52,8 @@ La función `reporte_especie()` lista todas las especies presentes en uno o más
 ### Ejemplo 1: Reporte de un solo censo
 
 ```{r reporte-especie-uno}
-# Generar reporte para el censo número 44
-reporte <- reporte_especie(44)
+# Generar reporte para el censo número 503
+reporte <- reporte_especie(503)
 head(reporte)
 ```
 
@@ -63,7 +63,7 @@ El resultado muestra las especies encontradas con su nombre científico, nombre 
 
 ```{r reporte-especie-multiple}
 # Generar reporte para varios censos
-reporte_varios <- reporte_especie(c(44, 45, 46))
+reporte_varios <- reporte_especie(c(75, 76, 77))
 head(reporte_varios, 10)
 ```
 
@@ -154,14 +154,14 @@ Un flujo de trabajo típico podría incluir:
 ### Ejemplo integrado
 
 ```{r ejemplo-integrado}
-# 1. Obtener especies del censo 44
-especies_censo_44 <- reporte_especie(44)
+# 1. Obtener especies del censo 503
+especies_censo_503 <- reporte_especie(503)
 
 # Ver las primeras especies encontradas
-head(especies_censo_44, 3)
+head(especies_censo_503, 3)
 
 # 2. Tomar la primera especie y ver su distribución
-primera_especie <- especies_censo_44$nombreCientificoEspecie[1]
+primera_especie <- especies_censo_503$nombreCientificoEspecie[1]
 cat("Primera especie encontrada:", primera_especie, "\n")
 ```
 
